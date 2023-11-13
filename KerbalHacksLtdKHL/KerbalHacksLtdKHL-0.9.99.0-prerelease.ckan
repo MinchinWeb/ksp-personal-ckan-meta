@@ -1,0 +1,42 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "KerbalHacksLtdKHL",
+    "name": "Kerbal Hacks Ltd (KH/L)",
+    "abstract": "*Space.Just.Got.Hacked.™*  Adds Kerbal Hacks Ltd. Agent, Flags, and common config files used in all Kerbal Hacks Ltd's add-ons for Kerbal Space Program.",
+    "author": "zer0Kerbal",
+    "version": "0.9.99.0-prerelease",
+    "ksp_version": "1.12.3",
+    "license": "GPL-2.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/209352-*/",
+        "spacedock": "https://spacedock.info/mod/3082/Kerbal%20Hacks%20Ltd%20(KH/L)",
+        "repository": "https://github.com/zer0Kerbal/KerbalHacksLtd",
+        "bugtracker": "https://github.com/zer0Kerbal/KerbalHacksLtd/issues",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/KerbalHacksLtd/master/KerbalHacksLtd.version",
+        "x_screenshot": "https://spacedock.info/content/zer0Kerbal_21147/Kerbal_Hacks_Ltd_KH_L/Kerbal_Hacks_Ltd_KH_L-1674362720.jpg"
+    },
+    "tags": [
+        "config"
+    ],
+    "localizations": [
+        "en-us",
+        "nl-nl"
+    ],
+    "install": [
+        {
+            "find": "KerbalHacks",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3082/Kerbal%20Hacks%20Ltd%20(KH/L)/download/0.9.99.0-prerelease",
+    "download_size": 135526,
+    "download_hash": {
+        "sha1": "C4118A1C42BE59398FA596393FB6468E7C53EB30",
+        "sha256": "9970C92D4D0B326C5EB89A10B0377EBBABD4BBAEFD20DAFE2CF79D75A80CE45C"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 185113,
+    "release_date": "2022-08-14T21:03:35.733477-06:00",
+    "x_via": "Automated SpaceDock CKAN submission",
+    "x_generated_by": "netkan"
+}

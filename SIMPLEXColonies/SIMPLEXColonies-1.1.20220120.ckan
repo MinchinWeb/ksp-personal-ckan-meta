@@ -1,0 +1,40 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "SIMPLEXColonies",
+    "name": "SIMPLEX Colonies",
+    "abstract": "A mod that adds massive Arcology Colonies and utilises MoarKerbals to spawn new Kerbonauts",
+    "author": "theJesuit",
+    "version": "1.1.20220120",
+    "ksp_version": "1.12.3",
+    "license": "CC-BY-NC-SA",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/205078-1122-simplex-colonies/",
+        "spacedock": "https://spacedock.info/mod/2868/SIMPLEX%20Colonies"
+    },
+    "tags": [
+        "config",
+        "parts",
+        "crewed"
+    ],
+    "localizations": [
+        "en-us"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "MoarKerbals"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2868/SIMPLEX%20Colonies/download/1.1.20220120",
+    "download_size": 28664,
+    "download_hash": {
+        "sha1": "5285A811E078722E27D08F7DB4736D4C9B02527F",
+        "sha256": "104E14F380054F80A887F9E8321F0E5A9378EE8911F27AEFD8753CDACE061345"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 135075,
+    "release_date": "2022-01-19T11:07:33.035323-07:00",
+    "x_generated_by": "netkan"
+}

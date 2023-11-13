@@ -1,0 +1,48 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "RoverAntiGravitySystemRAGS",
+    "name": "Rover Anti Gravity System (RAGS) by Lunatic Aeronautics",
+    "abstract": "Theeeee Rover gravity manipulator! A module to manipulate the gravity affecting your rover. A plugin and part for Kerbal Space Program",
+    "author": "zer0Kerbal",
+    "version": "1.5.0.0-release",
+    "ksp_version_min": "1.3.1",
+    "ksp_version_max": "1.7.3",
+    "license": "GPL-2.0",
+    "resources": {
+        "homepage": "https://www.curseforge.com/kerbal/ksp-mods/roverantigravitysystem",
+        "spacedock": "https://spacedock.info/mod/3166/Rover%20Anti%20Gravity%20System%20(RAGS)%20by%20Lunatic%20Aeronautics",
+        "repository": "https://github.com/zer0Kerbal/RoverAntiGravitySystem",
+        "bugtracker": "https://github.com/zer0Kerbal/RoverAntiGravitySystem/issues",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/RoverAntiGravitySystem/master/RoverAntiGravitySystem.version",
+        "x_screenshot": "https://spacedock.info/content/zer0Kerbal_21147/Rover_Anti_Gravity_System_RAGS/Rover_Anti_Gravity_System_RAGS-1671162694.jpg"
+    },
+    "tags": [
+        "plugin",
+        "parts"
+    ],
+    "localizations": [
+        "en-us"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "find": "LunaticAeronautics",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3166/Rover%20Anti%20Gravity%20System%20(RAGS)%20by%20Lunatic%20Aeronautics/download/1.5.0.0-release",
+    "download_size": 109489,
+    "download_hash": {
+        "sha1": "6C1A2677DFF9E3A1F35FD4B8E29F9E59157E3811",
+        "sha256": "BE65EF5731D4DDA19B2A8B504E799EFFEB84C5050D2E9CA037A1DAD80C7E1906"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 328500,
+    "release_date": "2023-07-02T21:42:26.623262-06:00",
+    "x_via": "Automated SpaceDock CKAN submission",
+    "x_generated_by": "netkan"
+}

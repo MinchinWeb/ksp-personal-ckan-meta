@@ -1,0 +1,38 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "ArtofReentry",
+    "name": "ArtofReentry",
+    "abstract": "Stylish and slightly functional heat shields",
+    "author": "zer0Kerbal",
+    "version": "1.1.0.0-release",
+    "ksp_version": "0.90.0",
+    "license": "CC-BY-ND-4.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/208628-*/",
+        "spacedock": "https://spacedock.info/mod/3046/ArtofReentry",
+        "repository": "https://github.com/zer0Kerbal/ArtofReentry",
+        "bugtracker": "https://github.com/zer0Kerbal/ArtofReentry/issues",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/ArtofReentry/master/ArtofReentry.version",
+        "x_screenshot": "https://spacedock.info/content/zer0Kerbal_21147/ArtofReentry/ArtofReentry-1655450128.png"
+    },
+    "tags": [
+        "parts"
+    ],
+    "install": [
+        {
+            "find": "ArtOfReentry",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3046/ArtofReentry/download/1.1.0.0-release",
+    "download_size": 21935711,
+    "download_hash": {
+        "sha1": "99C0D77AD850DB19BA65D4BD7C69630DE3D5DBF4",
+        "sha256": "C60D4825D21C3C2856716C7FABB6690C82FF8772C2435F753843BDCDB10A1225"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 22532598,
+    "release_date": "2022-06-27T23:43:30.897482-06:00",
+    "x_via": "Automated SpaceDock CKAN submission",
+    "x_generated_by": "netkan"
+}

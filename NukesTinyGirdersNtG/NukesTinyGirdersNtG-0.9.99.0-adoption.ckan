@@ -1,0 +1,47 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "NukesTinyGirdersNtG",
+    "name": "Nuke's Tiny Girders (NtG)",
+    "abstract": "Adds Nuke's Tiny Girders for Kerbal Space Program.",
+    "author": "zer0Kerbal",
+    "version": "0.9.99.0-adoption",
+    "ksp_version": "1.12.3",
+    "license": "GPL-2.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/209393-*/",
+        "spacedock": "https://spacedock.info/mod/3085/Nuke's%20Tiny%20Girders%20(NtG)",
+        "repository": "https://github.com/zer0Kerbal/NukesTinyGirders",
+        "bugtracker": "https://github.com/zer0Kerbal/NukesTinyGirders/issues",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/NukesTinyPods/master/NukesTinyPods.version",
+        "x_screenshot": "https://spacedock.info/content/zer0Kerbal_21147/Nukes_Tiny_Girders_NtG/Nukes_Tiny_Girders_NtG-1660799978.png"
+    },
+    "tags": [
+        "parts",
+        "crewed"
+    ],
+    "localizations": [
+        "en-us"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "find": "Nuke",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3085/Nuke's%20Tiny%20Girders%20(NtG)/download/0.9.99.0-adoption",
+    "download_size": 369854,
+    "download_hash": {
+        "sha1": "94FA91E28F0F590E86AAE6A3E0A04B002416668B",
+        "sha256": "EB9E1A6406E4C17F8D03F5A175D53EE4D2E3B62FBA8CA866BD388D5650429ED4"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 1039514,
+    "release_date": "2022-08-17T23:21:14.514063-06:00",
+    "x_via": "Automated SpaceDock CKAN submission",
+    "x_generated_by": "netkan"
+}

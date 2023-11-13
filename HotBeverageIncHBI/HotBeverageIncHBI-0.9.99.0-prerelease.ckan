@@ -1,0 +1,46 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "HotBeverageIncHBI",
+    "name": "Hot Beverage Inc (HBI)",
+    "abstract": "Adds Hot Beverages Inc Agent, Flags, and common config files used in all Hot Beverages, add-ons for Kerbal Space Program.",
+    "author": "zer0Kerbal",
+    "version": "0.9.99.0-prerelease",
+    "ksp_version": "1.12.4",
+    "license": "CC-BY-ND-4.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/208353-*/",
+        "spacedock": "https://spacedock.info/mod/3030/Hot%20Beverage%20Inc%20(HBI)",
+        "repository": "https://github.com/zer0Kerbal/HotBeverageInc",
+        "bugtracker": "https://github.com/zer0Kerbal/HotBeverageInc/issues",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/HotBeverageInc/master/HotBeverageInc.version",
+        "x_screenshot": "https://spacedock.info/content/zer0Kerbal_21147/Hot_Beverage_Inc_HBI/Hot_Beverage_Inc_HBI-1672721625.png"
+    },
+    "tags": [
+        "config"
+    ],
+    "localizations": [
+        "en-us"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "find": "HotBeverage",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3030/Hot%20Beverage%20Inc%20(HBI)/download/0.9.99.0-prerelease",
+    "download_size": 67539,
+    "download_hash": {
+        "sha1": "3287F8F8CBE1219D51023EB52996133BA9421539",
+        "sha256": "238958AEE807180625A88841E7F6D017641AD0576BCAF6DA3E2160031F3CD647"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 504302,
+    "release_date": "2022-12-30T20:55:24.485177-07:00",
+    "x_via": "Automated SpaceDock CKAN submission",
+    "x_generated_by": "netkan"
+}

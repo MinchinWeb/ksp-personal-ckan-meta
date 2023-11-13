@@ -1,0 +1,53 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "DreamerDREAMbyartwhaley",
+    "name": "Dreamer (DREAM) by artwhaley",
+    "abstract": "A roughly 2/3 scale model of Kierra Kevada Corp's Dream Chaser vertical launch spaceplane with cargo bay and docking nosecone!",
+    "author": "zer0Kerbal",
+    "version": "1.3.99.0-adoption",
+    "ksp_version_min": "1.3.1",
+    "ksp_version_max": "1.12.5",
+    "license": "GPL-2.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/126208-*/",
+        "spacedock": "https://spacedock.info/mod/2999/Dreamer%20(DREAM)%20by%20artwhaley",
+        "repository": "https://github.com/zer0Kerbal/Dreamer",
+        "bugtracker": "https://github.com/zer0Kerbal/Dreamer/issues",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/Dreamer/master/Dreamer.version",
+        "x_screenshot": "https://spacedock.info/content/zer0Kerbal_21147/Dreamer_DREAM_by_artwhaley/Dreamer_DREAM_by_artwhaley-1675548719.jpg"
+    },
+    "tags": [
+        "parts",
+        "crewed"
+    ],
+    "localizations": [
+        "en-us"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "find": "AxialAerospace",
+            "install_to": "GameData",
+            "filter_regexp": "\\.craft$"
+        },
+        {
+            "file": "Ships/VAB/DreamerLaunchReady.craft",
+            "install_to": "Ships/VAB"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2999/Dreamer%20(DREAM)%20by%20artwhaley/download/1.3.99.0-adoption",
+    "download_size": 6047795,
+    "download_hash": {
+        "sha1": "4A8D008880A16603C6C191E5E3BC3767D044DCFB",
+        "sha256": "A602F1F78E445F54273130B4D9DE35BC3DF5437E1FBF01D00D8985BE2883A663"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 14237164,
+    "release_date": "2023-02-17T01:16:46.134015-07:00",
+    "x_via": "Automated SpaceDock CKAN submission",
+    "x_generated_by": "netkan"
+}

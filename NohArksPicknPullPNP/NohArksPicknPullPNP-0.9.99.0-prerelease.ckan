@@ -1,0 +1,41 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "NohArksPicknPullPNP",
+    "name": "NohArk's Pick'n'Pull (PNP)",
+    "abstract": "Adds NohArk's Pick'n'Pull (PNP)'s agent, flags, and common config files for Kerbal Space Program.",
+    "author": "zer0Kerbal",
+    "version": "0.9.99.0-prerelease",
+    "ksp_version": "1.12.3",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/209965-*/",
+        "spacedock": "https://spacedock.info/mod/3130/NohArk's%20Pick'n'Pull%20(PNP)",
+        "repository": "https://github.com/zer0Kerbal/PicknPull",
+        "bugtracker": "https://github.com/zer0Kerbal/PicknPull/issues",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/PicknPull/master/PicknPull.version",
+        "x_screenshot": "https://spacedock.info/content/zer0Kerbal_21147/NohArks_PicknPull_PNP/NohArks_PicknPull_PNP-1664599858.jpg"
+    },
+    "tags": [
+        "config"
+    ],
+    "localizations": [
+        "en-us"
+    ],
+    "install": [
+        {
+            "find": "nli2work",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3130/NohArk's%20Pick'n'Pull%20(PNP)/download/0.9.99.0-prerelease",
+    "download_size": 126791,
+    "download_hash": {
+        "sha1": "D50ADFAC3D4CC52B0CB57EEA9C94D669A70DC043",
+        "sha256": "9226AE40814CC414E670799D10D6E3199BE2549AE0ABB93AACE867FDCB778B5F"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 179857,
+    "release_date": "2022-10-02T00:41:07.02398-06:00",
+    "x_via": "Automated SpaceDock CKAN submission",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,38 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "PortableScienceCratePSC",
+    "name": "Portable Science Crate (PSC)",
+    "abstract": "Useful for storing all the EVA gathered science on the fly.",
+    "author": "zer0Kerbal",
+    "version": "1.0.0.0-release",
+    "ksp_version": "1.3.1",
+    "license": "CC-BY",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/209350-*/",
+        "spacedock": "https://spacedock.info/mod/3080/Portable%20Science%20Crate%20(PSC)",
+        "repository": "https://github.com/zer0Kerbal/PortableScienceCrate",
+        "bugtracker": "https://github.com/zer0Kerbal/PortableScienceCrate/issues",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/PortableScienceCrate/master/PortableScienceCrate.version",
+        "x_screenshot": "https://spacedock.info/content/zer0Kerbal_21147/Portable_Science_Crate_PSC/Portable_Science_Crate_PSC-1660451594.png"
+    },
+    "tags": [
+        "parts"
+    ],
+    "install": [
+        {
+            "find": "KerbalHacks",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3080/Portable%20Science%20Crate%20(PSC)/download/1.0.0.0-release",
+    "download_size": 221268,
+    "download_hash": {
+        "sha1": "B269B17F0EC4DEE49C571B79C9B65F023A0C0D54",
+        "sha256": "FD97D04FE49774916BF640940B909FE82BC5DAE0A8D2E30343BD74BF24BD498D"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 803267,
+    "release_date": "2022-08-14T00:15:09.812922-06:00",
+    "x_via": "Automated SpaceDock CKAN submission",
+    "x_generated_by": "netkan"
+}

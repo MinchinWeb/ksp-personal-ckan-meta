@@ -1,0 +1,40 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "LanderTekLTEKbyartwhaley",
+    "name": "LanderTek (LTEK) by artwhaley",
+    "abstract": "Modular lander parts... for landing.  A modular pack of 1.25m, 1.875m, and 2.5m lander parts for Kerbal Space Program.",
+    "author": "zer0Kerbal",
+    "version": "0.5.0.0-release",
+    "ksp_version_min": "0.90.0",
+    "ksp_version_max": "1.4.9999",
+    "license": "GPL-2.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/207923-*/",
+        "spacedock": "https://spacedock.info/mod/3020/LanderTek%20(LTEK)%20by%20artwhaley",
+        "repository": "https://github.com/zer0Kerbal/LanderTek",
+        "bugtracker": "https://github.com/zer0Kerbal/LanderTek/issues",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/LanderTek/master/LanderTek.version",
+        "x_screenshot": "https://spacedock.info/content/zer0Kerbal_21147/LanderTek_LTEK_by_artwhaley/LanderTek_LTEK_by_artwhaley-1675476878.png"
+    },
+    "tags": [
+        "parts",
+        "crewed"
+    ],
+    "install": [
+        {
+            "find": "AxialAerospace",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3020/LanderTek%20(LTEK)%20by%20artwhaley/download/0.5.0.0-release",
+    "download_size": 16560210,
+    "download_hash": {
+        "sha1": "B49D59C3F95D508976C5C65E3C823CAAFC2C8124",
+        "sha256": "E632807102C117AD51A41184EAFA0FD3C36A388F0915CA9CCF4B73ECCA71BBB6"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 38922132,
+    "release_date": "2023-02-03T19:20:15.653634-07:00",
+    "x_via": "Automated SpaceDock CKAN submission",
+    "x_generated_by": "netkan"
+}

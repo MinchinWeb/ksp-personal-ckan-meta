@@ -1,0 +1,46 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "KerbalXMASXMASbyLunaticAeronautics",
+    "name": "Kerbal XMAS (XMAS) by Lunatic Aeronautics",
+    "abstract": "A holiday themed parts addon for Kerbal Space Program",
+    "author": "zer0Kerbal",
+    "version": "1.0.5.1-release",
+    "ksp_version_min": "0.90.0",
+    "ksp_version_max": "1.3.9999",
+    "license": "GPL-2.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/211153-*/",
+        "spacedock": "https://spacedock.info/mod/3179/Kerbal%20XMAS%20(XMAS)%20by%20Lunatic%20Aeronautics",
+        "repository": "https://github.com/zer0Kerbal/KerbalXMAS",
+        "bugtracker": "https://github.com/zer0Kerbal/KerbalXMAS/issues",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/KerbalXMAS/master/KerbalXMAS.version",
+        "x_screenshot": "https://spacedock.info/content/zer0Kerbal_21147/Kerbal_XMAS_XMAS_by_Lunatic_Aeronautics/Kerbal_XMAS_XMAS_by_Lunatic_Aeronautics-1671698704.jpg"
+    },
+    "tags": [
+        "plugin",
+        "parts",
+        "crewed"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "find": "LunaticAeronautics",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3179/Kerbal%20XMAS%20(XMAS)%20by%20Lunatic%20Aeronautics/download/1.0.5.1-release",
+    "download_size": 7247008,
+    "download_hash": {
+        "sha1": "2AD7BEDDB4F28B7CCA9520C1132045BFADB36582",
+        "sha256": "C26A440A2C088226A965734B3633C5BDE8E59DD283352F4805EDA0D471584AB7"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 20074585,
+    "release_date": "2022-12-22T01:39:54.798313-07:00",
+    "x_via": "Automated SpaceDock CKAN submission",
+    "x_generated_by": "netkan"
+}
