@@ -2,11 +2,15 @@
     "spec_version": "v1.27",
     "identifier": "DunaDirectRedux",
     "name": "Duna Direct Redux",
-    "abstract": "Based on the proposal for \"Mars Direct\" by Robert Zubrin and David Baker of\nMartin Marietta, 1990.\n\nUse without mods as stock, or the suggested mods.\n\nFlight plan:\n\nLaunch inside 5m expanded fairing\nAim for Duna\nAerobreaking entry at Duna\nHeatshield jettison and parachute deployment\nLanding gear deployment and reverse thrust\nPerform science!\nBuilt-in Sabatier conversion regenerates fuel for return\nRepack parachute\nLaunch for Kerbin\nJettison first stage\nAtmospheric re-entry at Kerbin\nParachute deployment and landing\nFlight crew:\nPilot for vessel control\nEngineer for repacking parachutes\nTwo scientists for running the science lab\n",
+    "abstract": "Based on the proposal for \"Mars Direct\" by Robert Zubrin and David Baker of\nMartin Marietta, 1990.\n\nUse without mods as stock, or the suggested mods.\n\nFlight plan:\n- Launch inside 5m expanded fairing\n- Aim for Duna\n- Aerobreaking entry at Duna\n- Heatshield jettison and parachute deployment\n- Landing gear deployment and reverse thrust\n- Perform science!\n- Built-in Sabatier conversion regenerates fuel for return\n- Repack parachute\n- Launch for Kerbin\n- Jettison first stage\n- Atmospheric re-entry at Kerbin\n- Parachute deployment and landing\n\nFlight crew:\n- Pilot for vessel control\n- Engineer for repacking parachutes\n- Two scientists for running the science lab\n",
     "author": "Dangaffa",
     "version": "1.01",
     "ksp_version_min": "1.10.1",
     "license": "CC-BY-4.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/179544-1101-duna-direct/?do=findComment&comment=4329319",
+        "repository": "https://github.com/dangaffa/DunaDirectRedux/tree/main"
+    },
     "tags": [
         "parts",
         "crewed"
