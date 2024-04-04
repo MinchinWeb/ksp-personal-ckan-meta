@@ -15,3 +15,5 @@ To use this:
 6. Refresh CKAN.
 7. Profit! Install the mods as needed.
 
+
+Personal Note: This is generated via <https://github.com/MinchinWeb/ksp-personal-netkan>
