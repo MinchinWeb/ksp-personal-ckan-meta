@@ -1,0 +1,39 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "LunaticAeronauticsLtd",
+    "name": "Lunatic Aeronautics Ltd",
+    "abstract": "Agent, flags and common configs for Lunatic Aeronautics. For Kerbal Space Program.",
+    "author": "zer0Kerbal",
+    "version": "0.9.99.1-prerelease",
+    "ksp_version": "1.12.5",
+    "license": "GPL-2.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/208613-*/",
+        "repository": "https://github.com/zer0Kerbal/LunaticAeronauticsLtd",
+        "bugtracker": "https://github.com/zer0Kerbal/LunaticAeronauticsLtd/issues",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/LunaticAeronauticsLtd/master/LunaticAeronauticsLtd.version"
+    },
+    "tags": [
+        "config"
+    ],
+    "localizations": [
+        "en-us"
+    ],
+    "install": [
+        {
+            "find": "LunaticAeronauticsLtd",
+            "install_to": "GameData/LunaticAeronautics"
+        }
+    ],
+    "download": "https://api.github.com/repos/zer0Kerbal/LunaticAeronauticsLtd/zipball/0.9.99.1-prerelease",
+    "download_size": 4045012,
+    "download_hash": {
+        "sha1": "2E75FCFBF92A64CC4DF9153D1EC746A480589D9E",
+        "sha256": "CEF4D61BD377D0687E42521A82EAE34368631C6AFD85392CCA63FFE16C8EFA8E"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 289017,
+    "release_date": "2022-12-24T08:14:38Z",
+    "_$kref": "#/ckan/spacedock/3045",
+    "x_generated_by": "netkan"
+}

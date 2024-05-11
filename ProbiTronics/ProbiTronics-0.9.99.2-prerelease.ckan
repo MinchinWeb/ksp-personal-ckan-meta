@@ -1,0 +1,45 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "ProbiTronics",
+    "name": "Probi Tronics",
+    "abstract": "Specialized probes and reusability parts. For Kerbal Space Program.",
+    "author": "zer0Kerbal",
+    "version": "0.9.99.2-prerelease",
+    "ksp_version_min": "1.0.0",
+    "license": "CC-BY-SA-4.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/191428-*/",
+        "repository": "https://github.com/zer0Kerbal/ProbiTronics",
+        "bugtracker": "https://github.com/zer0Kerbal/ProbiTronics/issues",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/ProbiTronics.version"
+    },
+    "tags": [
+        "parts"
+    ],
+    "localizations": [
+        "en-us",
+        "tr-tr"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "find": "ProbiTronics",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://api.github.com/repos/zer0Kerbal/ProbiTronics/zipball/0.9.99.2-prerelease",
+    "download_size": 12244587,
+    "download_hash": {
+        "sha1": "DC26E4B0F3C9080FE1C4422B431B14082DA2CFB8",
+        "sha256": "0BABBE9B550CF4D779DA439D0BC33A4E878EC780078E37149D1203101287FD48"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 9063921,
+    "release_date": "2022-07-13T04:57:18Z",
+    "_$kref": "#/ckan/spacedock/3029",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,44 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "KerbalHacksDroptankIII",
+    "name": "Drop Tanks (DROP)",
+    "abstract": "3.75m stockalike curved conformal (wrap-around) DropTanksIII with an\nintegrated decoupler.\n",
+    "author": "zer0Kerbal, Enceos",
+    "version": "0.9.99.1",
+    "ksp_version_min": "1.3.1",
+    "license": "CC-BY-NC-SA",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/209332-*/",
+        "curse": "https://www.curseforge.com/kerbal/ksp-mods/droptanksiii",
+        "repository": "https://github.com/zer0Kerbal/DropTanksIII/",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/DropTanksIII/master/DropTanksIII.version"
+    },
+    "tags": [
+        "parts"
+    ],
+    "localizations": [
+        "en-us",
+        "nl-nl",
+        "ru"
+    ],
+    "suggests": [
+        {
+            "name": "KerbalHacksDroptankWrapper"
+        }
+    ],
+    "install": [
+        {
+            "find": "DropTanksIII",
+            "install_to": "GameData/KerbalHacks"
+        }
+    ],
+    "download": "https://mediafilez.forgecdn.net/files/4603/977/DropTanksIII-0.9.99.1-prerelease-CF.zip",
+    "download_size": 43968,
+    "download_hash": {
+        "sha1": "7D4BB451FCE916DD777D916BB452C8FA7AB0776C",
+        "sha256": "CCB38B9DB5774C071D31948ABDA96A1D765FE1A969CAFEA07D2B4F63B825CC32"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 112678,
+    "x_generated_by": "netkan"
+}

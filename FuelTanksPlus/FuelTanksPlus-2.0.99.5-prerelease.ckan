@@ -1,0 +1,47 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "FuelTanksPlus",
+    "name": "Fuel Tanks Plus",
+    "abstract": "A set of fuel tanks that are longer than largest stock tanks in each diameter, plus fuel-filled nose cones for those diameters. These are meant to give you some visual choice of styles that are loosely inspired by real-world rockets from NASA, ESA, and private space firms (though that inspiration is mainly in color choice), while maintaining the style established in the Color Coded Canisters mod.",
+    "author": "zer0Kerbal",
+    "version": "2.0.99.5-prerelease",
+    "ksp_version_min": "1.3.1",
+    "license": "CC-BY-NC-SA",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/207702-*/",
+        "repository": "https://github.com/zer0Kerbal/FuelTanksPlus",
+        "bugtracker": "https://github.com/zer0Kerbal/FuelTanksPlus/issues",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/FuelTanksPlus/master/FuelTanksPlus.version"
+    },
+    "tags": [
+        "parts",
+        "resources",
+        "variants"
+    ],
+    "localizations": [
+        "en-us",
+        "ru"
+    ],
+    "depends": [
+        {
+            "name": "FTPLtd"
+        }
+    ],
+    "install": [
+        {
+            "find": "FuelTanksPlus",
+            "install_to": "GameData/FuelTanksPlus"
+        }
+    ],
+    "download": "https://api.github.com/repos/zer0Kerbal/FuelTanksPlus/zipball/2.0.99.5-prerelease",
+    "download_size": 5254292,
+    "download_hash": {
+        "sha1": "24267701D104069CC5202EC70DAE649EF9825732",
+        "sha256": "F474F4B142B120A8A47406F92EDB9F26971F9DBC6C129ADAF22BAF8F6C3F380C"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 381367,
+    "release_date": "2023-07-05T04:03:54Z",
+    "x_via": "MinchinWeb's GitHub to NetKan",
+    "x_generated_by": "netkan"
+}

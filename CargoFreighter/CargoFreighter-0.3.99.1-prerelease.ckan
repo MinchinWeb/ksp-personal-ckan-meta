@@ -1,0 +1,70 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "CargoFreighter",
+    "name": "Coyote Cargo Freighter",
+    "abstract": "Coyote Cargo Freighter by Coyote Space Industries (CSI) is a massive parts pack for Kerbal Space Program.",
+    "author": [
+        "dboi88",
+        "zer0Kerbal"
+    ],
+    "version": "0.3.99.1-prerelease",
+    "ksp_version_min": "1.3.1",
+    "license": "GPL-2.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/209541-*/",
+        "repository": "https://github.com/zer0Kerbal/CoyoteCargoFreighter",
+        "bugtracker": "https://github.com/zer0Kerbal/CoyoteCargoFreighter/issues",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/CoyoteCargoFreighter/master/CoyoteCargoFreighter.version"
+    },
+    "tags": [
+        "parts",
+        "config",
+        "agency",
+        "comms",
+        "crewed",
+        "flags",
+        "graphics",
+        "parts",
+        "resources"
+    ],
+    "localizations": [
+        "en-us"
+    ],
+    "depends": [
+        {
+            "name": "USITools"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "CommunityCategoryKit"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "FirespitterCore"
+        },
+        {
+            "name": "CoyoteSpaceIndustries"
+        }
+    ],
+    "install": [
+        {
+            "find": "CoyoteCargoFreighter",
+            "install_to": "GameData/CoyoteSpace"
+        }
+    ],
+    "download": "https://api.github.com/repos/zer0Kerbal/CoyoteCargoFreighter/zipball/0.3.99.1-prerelease",
+    "download_size": 41711217,
+    "download_hash": {
+        "sha1": "E7DCD4A7EB4CFC22D3DE0B93AA4CFE0E1A0A4A83",
+        "sha256": "DB924B11E62E2378EDA4983E25B58734DF8A2376F8B66FD866D77A8D9D5CC4EC"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 79224172,
+    "release_date": "2023-01-27T06:36:47Z",
+    "x_via": "MinchinWeb's GitHub to NetKan",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,50 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "SolarScience",
+    "name": "Solar Science",
+    "abstract": "A small addon (.dll) that adds two scientific instruments for experiments around Kerbol, the sun. Both are based on instruments currently aboard the SOHO and STEREO spacecraft, respectively. When used it can provide actual up-to-date images directly from NASA from the real-world STEREO and SOHO spacecraft! For Kerbal Space Program.",
+    "author": [
+        "Snoopy20111",
+        "zer0Kerbal"
+    ],
+    "version": "1.2.0.0",
+    "ksp_version_min": "1.7.1",
+    "ksp_version_max": "1.7.9999",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/192489-*/",
+        "repository": "https://github.com/zer0Kerbal/SolarScience",
+        "bugtracker": "https://github.com/zer0Kerbal/SolarScience/issues",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/SolarScience/master/SolarScience.version"
+    },
+    "tags": [
+        "parts",
+        "plugins",
+        "flags",
+        "agency",
+        "sound",
+        "science",
+        "tech-tree",
+        "career"
+    ],
+    "localizations": [
+        "en-us"
+    ],
+    "install": [
+        {
+            "find": "SolarScience",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://api.github.com/repos/zer0Kerbal/SolarScience/zipball/1.2.0.0",
+    "download_size": 12191158,
+    "download_hash": {
+        "sha1": "AB86A0F56BB20033B6011E06F58BB13349BFC2F3",
+        "sha256": "96EE7C088589277ECB97215C6F4BDFA32DD5438ED2879E29BEED55404650BD59"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 14645306,
+    "release_date": "2020-03-18T09:36:12Z",
+    "x_via": "MinchinWeb's GitHub to NetKan",
+    "x_generated_by": "netkan"
+}

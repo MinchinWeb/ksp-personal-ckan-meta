@@ -1,0 +1,36 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "AxialAerospaceLtd",
+    "name": "Axial Aerospace Ltd",
+    "abstract": "It's what we do. Provides a common agent, flag, and configs for all Axial Aerospace products, for Kerbal Space Program.",
+    "author": "zer0Kerbal",
+    "version": "0.9.99.0-prerelease",
+    "ksp_version": "1.12.3",
+    "license": "GPL-2.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/209301-*/",
+        "repository": "https://github.com/zer0Kerbal/AxialAerospaceLtd",
+        "bugtracker": "https://github.com/zer0Kerbal/AxialAerospaceLtd/issues",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/AxialAerospaceLtd/master/AxialAerospaceLtd.version"
+    },
+    "localizations": [
+        "en-us"
+    ],
+    "install": [
+        {
+            "find": "AxialAerospaceLtd",
+            "install_to": "GameData/AxialAerospace"
+        }
+    ],
+    "download": "https://api.github.com/repos/zer0Kerbal/AxialAerospaceLtd/zipball/0.9.99.0-prerelease",
+    "download_size": 2080864,
+    "download_hash": {
+        "sha1": "2BBBC1C3FB774B366E636A9508A250A17D01E740",
+        "sha256": "8FD7988C79DAFE3D3EAC77F951806B60940E8F8DA7D25D74F16EA3F52CA4FDFB"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 100448,
+    "release_date": "2022-08-11T03:48:39Z",
+    "_$kref": "#/ckan/spacedock/3076",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,62 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "SimpleLogistics",
+    "name": "Simple Logistics",
+    "abstract": "An add-on for simple resources sharing between vessels within physics range for Kerbal Space Program.",
+    "author": [
+        "Real-Gecko",
+        "mwerle",
+        "zer0Kerbal"
+    ],
+    "version": "2.0.3.0.1",
+    "ksp_version_min": "1.4.1",
+    "ksp_version_max": "1.8.9999",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/191045-*/",
+        "repository": "https://github.com/zer0Kerbal/SimpleLogistics",
+        "bugtracker": "https://github.com/zer0Kerbal/SimpleLogistics/issues",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/SimpleLogistics/master/GameData/SimpleLogistics/SimpleLogistics.version"
+    },
+    "tags": [
+        "addon",
+        "resources"
+    ],
+    "localizations": [
+        "en-us",
+        "zh-cn"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ToolbarController"
+        }
+    ],
+    "supports": [
+        {
+            "name": "KerbalChangelog"
+        },
+        {
+            "name": "AlternateResourcePanel"
+        }
+    ],
+    "install": [
+        {
+            "find": "SimpleLogistics",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://api.github.com/repos/zer0Kerbal/SimpleLogistics/zipball/2.0.3.0.1",
+    "download_size": 84837,
+    "download_hash": {
+        "sha1": "036E287B87D45FC4FF7DA5F4DB84EC2F1A86A6F4",
+        "sha256": "8D4DF55087D7A84B8C65137A41C812D17A9DA6504DFA962C3AFB1E15C23FE138"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 35420,
+    "release_date": "2020-01-18T11:22:28Z",
+    "x_via": "MinchinWeb's GitHub to NetKan",
+    "x_generated_by": "netkan"
+}

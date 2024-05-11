@@ -1,0 +1,44 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "AntennasANT",
+    "name": "Antennas",
+    "abstract": "Adds six new antennas that are compatible with both Antenna Range, Remote Tech and Telemachus to Kerbal Space Program.",
+    "author": "zer0Kerbal",
+    "version": "1.4.99.0-adoption",
+    "ksp_version_min": "1.0.0",
+    "license": "CC-BY-SA-4.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/207329-*/",
+        "repository": "https://github.com/zer0Kerbal/Antennas",
+        "bugtracker": "https://github.com/zer0Kerbal/Antennas/issues",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/Antennas/master/Antennas.version"
+    },
+    "tags": [
+        "parts"
+    ],
+    "localizations": [
+        "en-us"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "find": "Antennas",
+            "install_to": "GameData/PhantomAerospace"
+        }
+    ],
+    "download": "https://api.github.com/repos/zer0Kerbal/Antennas/zipball/1.4.99.0-adoption",
+    "download_size": 4776324,
+    "download_hash": {
+        "sha1": "C28F210A0FC28434DAF8C283FD2CB9B942993BD5",
+        "sha256": "0E803EB556AFCA859CA1487A78CBFEA68BB487FFCCE4E4789D7FAE065D373C28"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 11642149,
+    "release_date": "2022-03-19T09:23:15Z",
+    "_$kref": "#/ckan/spacedock/98",
+    "x_generated_by": "netkan"
+}

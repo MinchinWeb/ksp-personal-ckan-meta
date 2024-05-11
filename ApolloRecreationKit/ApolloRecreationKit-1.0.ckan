@@ -1,0 +1,38 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "ApolloRecreationKit",
+    "name": "Apollo Recreation Kit",
+    "abstract": "Recreate the Moon landing - the way it \"really\" happened...",
+    "author": "Benjee10",
+    "version": "1.0",
+    "ksp_version": "1.10.1",
+    "license": "restricted",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/195744-18-110-apollo-recreation-kit-10/",
+        "spacedock": "https://spacedock.info/mod/2485/Apollo%20Recreation%20Kit"
+    },
+    "depends": [
+        {
+            "name": "CommunityCategoryKit"
+        },
+        {
+            "name": "B9PartSwitch"
+        }
+    ],
+    "install": [
+        {
+            "find": "Benjee10_ARK",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2485/Apollo%20Recreation%20Kit/download/1.0",
+    "download_size": 9745471,
+    "download_hash": {
+        "sha1": "851D8A9EFC6555E5EE13D6AEC943A68DDEBCD81B",
+        "sha256": "E0AF6790E477C29A54AE12469152BB31D54301FE044974C15976EEDFB6A228F6"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 19111741,
+    "release_date": "2020-07-20T06:04:06.381244-06:00",
+    "x_generated_by": "netkan"
+}

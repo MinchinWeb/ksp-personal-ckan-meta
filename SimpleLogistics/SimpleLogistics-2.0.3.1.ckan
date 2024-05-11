@@ -1,0 +1,75 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "SimpleLogistics",
+    "name": "Simple Logistics",
+    "abstract": "An add-on for simple resources sharing between vessels within physics range for Kerbal Space Program.",
+    "author": [
+        "Real-Gecko",
+        "mwerle",
+        "zer0Kerbal"
+    ],
+    "version": "2.0.3.1",
+    "ksp_version_min": "1.4.1",
+    "ksp_version_max": "1.8.9999",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/191045-*/",
+        "repository": "https://github.com/zer0Kerbal/SimpleLogistics",
+        "bugtracker": "https://github.com/zer0Kerbal/SimpleLogistics/issues",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/SimpleLogistics/master/GameData/SimpleLogistics/SimpleLogistics.version"
+    },
+    "tags": [
+        "addon",
+        "resources"
+    ],
+    "localizations": [
+        "de-de",
+        "en-us",
+        "es-es",
+        "es-mx",
+        "fr-fr",
+        "it-it",
+        "ja",
+        "ko",
+        "nl-nl",
+        "no-no",
+        "pl",
+        "pt-br",
+        "ru",
+        "sw-sw",
+        "zh-cn"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ToolbarController"
+        }
+    ],
+    "supports": [
+        {
+            "name": "KerbalChangelog"
+        },
+        {
+            "name": "AlternateResourcePanel"
+        }
+    ],
+    "install": [
+        {
+            "find": "SimpleLogistics",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://api.github.com/repos/zer0Kerbal/SimpleLogistics/zipball/2.0.3.1",
+    "download_size": 100874,
+    "download_hash": {
+        "sha1": "2D2BA308EF0F359ACD1ED1A84636BFEDACD58BE3",
+        "sha256": "5FC22309004C4400F381772075E0C7FA465B90E352C8D8A50EE998969AD9697B"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 47536,
+    "release_date": "2020-02-02T03:43:51Z",
+    "x_via": "MinchinWeb's GitHub to NetKan",
+    "x_generated_by": "netkan"
+}

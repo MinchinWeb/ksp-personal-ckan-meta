@@ -1,0 +1,62 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "StackInlineLightPatches",
+    "name": "SIL Patches",
+    "abstract": "Adds Stack Inline Lights to parts! All with full color and brightness setup and in any sizes! For Kerbal Space Program (KSP).",
+    "author": "zer0Kerbal",
+    "version": "1.0.0.0",
+    "ksp_version_min": "1.7.1",
+    "ksp_version_max": "1.7.9999",
+    "license": "GPL-2.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/193051-*/",
+        "repository": "https://github.com/zer0Kerbal/SILPatches",
+        "bugtracker": "https://github.com/zer0Kerbal/SILPatches/issues",
+        "remote-avc": "https://github.com/zer0Kerbal/SILPatches/raw/master/SILPatches.version"
+    },
+    "tags": [
+        "config"
+    ],
+    "depends": [
+        {
+            "name": "StackInlineLights"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "supports": [
+        {
+            "name": "PicoPortShielded"
+        },
+        {
+            "name": "SimpleCargoSolutions"
+        },
+        {
+            "name": "PicoPort"
+        },
+        {
+            "name": "KerbodynePlus"
+        },
+        {
+            "name": "BrightUtilitarianLuminescentBeacon"
+        }
+    ],
+    "install": [
+        {
+            "find": "SILPatches",
+            "install_to": "GameData/ASET"
+        }
+    ],
+    "download": "https://api.github.com/repos/zer0Kerbal/SILPatches/zipball/1.0.0.0",
+    "download_size": 37012,
+    "download_hash": {
+        "sha1": "42FDFC9D77B16AB61ABC1065D28D31096EBC2746",
+        "sha256": "29EAC6C49FC888BDC92C33AD4BCB3A75C996625E4BAFAC116870AB72C18C9ACD"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 43432,
+    "release_date": "2020-04-11T06:42:31Z",
+    "x_via": "MinchinWeb's GitHub to NetKan",
+    "x_generated_by": "netkan"
+}

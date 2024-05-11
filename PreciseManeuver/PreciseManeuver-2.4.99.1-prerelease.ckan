@@ -1,0 +1,54 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "PreciseManeuver",
+    "name": "Precise Maneuver",
+    "abstract": "Precise Maneuver plugin provides a window for more precise maneuver node editing. For Kerbal Space Program (KSP).",
+    "author": [
+        "radistmorse",
+        "zer0Kerbal"
+    ],
+    "version": "2.4.99.1-prerelease",
+    "ksp_version_min": "1.8.0",
+    "license": "BSD-2-clause",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/207261-*/",
+        "repository": "https://github.com/zer0Kerbal/PreciseManeuver",
+        "bugtracker": "https://github.com/zer0Kerbal/PreciseManeuver/issues",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/PreciseManeuver/master/PreciseManeuver.version"
+    },
+    "tags": [
+        "plugin",
+        "control",
+        "convenience"
+    ],
+    "localizations": [
+        "de-de",
+        "en-us",
+        "es-es",
+        "ja",
+        "ru",
+        "zh-cn"
+    ],
+    "conflicts": [
+        {
+            "name": "PreciseNode"
+        }
+    ],
+    "install": [
+        {
+            "find": "PreciseManeuver",
+            "install_to": "GameData/Morse"
+        }
+    ],
+    "download": "https://api.github.com/repos/zer0Kerbal/PreciseManeuver/zipball/2.4.99.1-prerelease",
+    "download_size": 6329137,
+    "download_hash": {
+        "sha1": "A1A44143F622967EDDD5EC310B8C9F3146D0E334",
+        "sha256": "95069C5970F0F46FD84C3AEDC8C0A1EFD4BD27D2D0D16AA62502098A43E12DE8"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 192322,
+    "release_date": "2023-01-08T06:17:43Z",
+    "x_via": "MinchinWeb's GitHub to NetKan",
+    "x_generated_by": "netkan"
+}

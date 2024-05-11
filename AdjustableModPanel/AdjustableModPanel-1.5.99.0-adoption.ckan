@@ -1,0 +1,48 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "AdjustableModPanel",
+    "name": "Adjustable Mod Panel",
+    "abstract": "This plugin allows choosing which stock toolbar buttons you want to see. You can show/hide mod stock toolbar buttons on different screens separately. It requires no additional support from the add-ons themselves, and should work with whichever add-ons it encounters. For Kerbal Space Program.",
+    "author": [
+        "radistmorse",
+        "zer0Kerbal"
+    ],
+    "version": "1.5.99.0-adoption",
+    "ksp_version_min": "1.7.1",
+    "license": "BSD-2-clause",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/207263-*/",
+        "repository": "https://github.com/zer0Kerbal/AdjustableModPanel",
+        "bugtracker": "https://github.com/zer0Kerbal/AdjustableModPanel/issues",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/AdjustableModPanel/master/AdjustableModPanel.version"
+    },
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "localizations": [
+        "en-us"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "find": "AdjustableModPanel",
+            "install_to": "GameData/Morse"
+        }
+    ],
+    "download": "https://api.github.com/repos/zer0Kerbal/AdjustableModPanel/zipball/1.5.99.0-adoption",
+    "download_size": 1220205,
+    "download_hash": {
+        "sha1": "1377FE0A1EB4C7E5F46ECE662FB65359A7E23204",
+        "sha256": "D0AE5F73A9E01C21AD67769EECFD3DE57A1E94AD5302250D22D010FE3AB889E0"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 49211,
+    "release_date": "2022-04-10T10:25:22Z",
+    "x_via": "MinchinWeb's GitHub to NetKan",
+    "x_generated_by": "netkan"
+}

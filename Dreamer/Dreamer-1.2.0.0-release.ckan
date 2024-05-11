@@ -1,0 +1,53 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "Dreamer",
+    "name": "Dreamer",
+    "abstract": "A roughly 2/3 scale model of Sierra Nevada Corp's Dream Chaser vertical launch spaceplane with cargo bay and docking nosecone! For Kerbal Space Program.",
+    "author": "zer0Kerbal",
+    "version": "1.2.0.0-release",
+    "ksp_version_min": "1.0.0",
+    "ksp_version_max": "1.0.9999",
+    "license": "GPL-2.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/207306-*/",
+        "repository": "https://github.com/zer0Kerbal/Dreamer",
+        "bugtracker": "https://github.com/zer0Kerbal/Dreamer/issues",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/Dreamer/master/Dreamer.version"
+    },
+    "tags": [
+        "parts",
+        "crewed"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "AxialAerospaceLtd"
+        }
+    ],
+    "install": [
+        {
+            "find": "Dreamer",
+            "install_to": "GameData/AxialAerospace",
+            "filter_regexp": "\\.craft$"
+        }
+    ],
+    "download": "https://api.github.com/repos/zer0Kerbal/Dreamer/zipball/1.2.0.0-release",
+    "download_size": 12243168,
+    "download_hash": {
+        "sha1": "03FD3E23595009C76DCC2373673EA968FFEEFE49",
+        "sha256": "DD880C7501FB81291FFD4C8BC3F4017EF2C03EB2151050382CD6B257E7D5B5CE"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 36018305,
+    "release_date": "2023-02-10T09:29:25Z",
+    "_$kref": "#/ckan/spacedock/2999",
+    "_skip_install_for_now": [
+        {
+            "find": "VAB",
+            "install_to": "Ships"
+        }
+    ],
+    "x_generated_by": "netkan"
+}

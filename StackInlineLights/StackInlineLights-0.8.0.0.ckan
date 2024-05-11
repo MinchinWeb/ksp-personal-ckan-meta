@@ -1,0 +1,42 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "StackInlineLights",
+    "name": "Stack Inline Lights",
+    "abstract": "Space. Is. Dark. I mean, really, Really, REALLY dark. Like not being able to see the inside of your eyelids while eating a PBJ sandy. Trusting your cup of Jeb's Nuclear Coffee to glow enough to patch that leak just isn't going to cut it.  A.S.E.T. Stack Inline Lights (SIL) {RGB} full color and brightness control and in many sizes! For KSP.",
+    "author": "zer0Kerbal",
+    "version": "0.8.0.0",
+    "ksp_version_min": "1.7.1",
+    "ksp_version_max": "1.7.9999",
+    "license": "CC-BY-NC-SA",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/193050-*/",
+        "repository": "https://github.com/zer0Kerbal/StackInlineLights",
+        "bugtracker": "https://github.com/zer0Kerbal/StackInlineLights/issues",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/StockInlineLights/master/StockInlineLights.version"
+    },
+    "tags": [
+        "parts"
+    ],
+    "recommends": [
+        {
+            "name": "StackInlineLightPatches"
+        }
+    ],
+    "install": [
+        {
+            "find": "StackInlineLights",
+            "install_to": "GameData/ASET"
+        }
+    ],
+    "download": "https://api.github.com/repos/zer0Kerbal/StackInlineLights/zipball/0.8.0.0",
+    "download_size": 16967546,
+    "download_hash": {
+        "sha1": "DC6F892FE610519931B07F9585BFAA55909F004F",
+        "sha256": "EF1A8A8579A207F5305FBCA9458640FE89E5D86D0ED9C61D9471672D009AAFE9"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 680532,
+    "release_date": "2020-04-11T00:56:49Z",
+    "x_via": "MinchinWeb's GitHub to NetKan",
+    "x_generated_by": "netkan"
+}

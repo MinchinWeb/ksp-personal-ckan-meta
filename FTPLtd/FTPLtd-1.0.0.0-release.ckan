@@ -1,0 +1,40 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "FTPLtd",
+    "name": "FTP Ltd",
+    "abstract": "Adds Fuel Tanks Plus Limited's agent, flags, and common config files used in all Fuel Tanks Plus add-ons for Kerbal Space Program.",
+    "author": "zer0Kerbal",
+    "version": "1.0.0.0-release",
+    "ksp_version": "1.12.5",
+    "license": "CC-BY-SA",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/209628-*/",
+        "repository": "https://github.com/zer0Kerbal/FTPLtd",
+        "bugtracker": "https://github.com/zer0Kerbal/FTPLtd/issues",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/FTPLtd/master/FTPLtd.version"
+    },
+    "tags": [
+        "config"
+    ],
+    "localizations": [
+        "en-us",
+        "pt-br"
+    ],
+    "install": [
+        {
+            "find": "FTPLtd",
+            "install_to": "GameData/FuelTanksPlus"
+        }
+    ],
+    "download": "https://api.github.com/repos/zer0Kerbal/FTPLtd/zipball/1.0.0.0-release",
+    "download_size": 10004093,
+    "download_hash": {
+        "sha1": "65BA36A06E30C1AC4A817A7354E41A43EA1B01EE",
+        "sha256": "ECF72BC77ACD630F7FF500A5DE664F3C504F0C2CA5110D26A3875FF60FD472E6"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 20775288,
+    "release_date": "2023-05-25T23:18:48Z",
+    "_$kref": "#/ckan/spacedock/3109",
+    "x_generated_by": "netkan"
+}

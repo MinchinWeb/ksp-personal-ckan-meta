@@ -1,0 +1,48 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "NukesTinyPods",
+    "name": "Nukes Tiny Pods",
+    "abstract": "Tiny part addon that adds Nuke's Tiny Pods (okay, just one for now) for Kerbal Space Program.",
+    "author": "zer0Kerbal",
+    "version": "1.0.0.0-release",
+    "ksp_version": "1.12.5",
+    "license": "GPL-2.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/209399-*/",
+        "repository": "https://github.com/zer0Kerbal/NukesTinyPods",
+        "bugtracker": "https://github.com/zer0Kerbal/NukesTinyPods/issues",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/NukesTinyPods/master/NukesTinyPods.version"
+    },
+    "tags": [
+        "parts",
+        "crewed"
+    ],
+    "localizations": [
+        "en-us"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "NukesUnlimited"
+        }
+    ],
+    "install": [
+        {
+            "find": "NukesTinyPods",
+            "install_to": "GameData/Nuke"
+        }
+    ],
+    "download": "https://api.github.com/repos/zer0Kerbal/NukesTinyPods/zipball/1.0.0.0-release",
+    "download_size": 5734952,
+    "download_hash": {
+        "sha1": "736DFFC9CF7532E87AA364A140DC99E58EDD1751",
+        "sha256": "25FC8BEE68104CBC62302D7D513E61BE66782DEF1108656F72D8E862DA1024DF"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 1039477,
+    "release_date": "2023-06-30T04:34:50Z",
+    "_$kref": "#/ckan/spacedock/3086",
+    "x_generated_by": "netkan"
+}

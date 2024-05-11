@@ -4,7 +4,7 @@
     "name": "Klockheed Martian Ltd",
     "abstract": "Our Mission is Kerbol. This add-on provides a common agent, flags, and configs for all Klockheed Martian products, for Kerbal Space Program.",
     "author": "zer0Kerbal",
-    "version": "1.0.0.0-release",
+    "version": "1.0.1.0-release",
     "ksp_version": "1.12.4",
     "license": "CC-BY-ND-4.0",
     "resources": {
@@ -27,15 +27,15 @@
             "install_to": "GameData/KlockheedMartian"
         }
     ],
-    "download": "https://api.github.com/repos/zer0Kerbal/KlockheedMartianLtd/zipball/1.0.0.0-release",
-    "download_size": 286379,
+    "download": "https://api.github.com/repos/zer0Kerbal/KlockheedMartianLtd/zipball/1.0.1.0-release",
+    "download_size": 297077,
     "download_hash": {
-        "sha1": "D83F3C24405F3DD83B603178B662AF832CC95AE2",
-        "sha256": "733D2419A1F862132534BBD868CE0A28FB4EBC7B62BBF6BC265F844211F190D1"
+        "sha1": "8D46E1BFD1FD5C5ABE3F14F87753BA7D8D179F32",
+        "sha256": "D9FE435DEB7E003D5A1608CC6E31631FD2B4D16A7CD3D2C4CDD0D234F6EC8167"
     },
     "download_content_type": "application/zip",
-    "install_size": 567508,
-    "release_date": "2022-11-30T05:39:25Z",
+    "install_size": 569154,
+    "release_date": "2022-12-11T06:27:55Z",
     "_$kref": "#/ckan/spacedock/3025",
     "x_generated_by": "netkan"
 }

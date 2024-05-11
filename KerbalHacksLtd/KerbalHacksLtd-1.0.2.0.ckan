@@ -1,0 +1,40 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "KerbalHacksLtd",
+    "name": "Kerbal Hacks Limited (KHL)",
+    "abstract": "Space.Just.Got.Hacked.™\n\nAgent, Flags, and common config files used in all Kerbal Hacks Ltd's (KHL)\nadd-ons for Kerbal Space Program.\n",
+    "author": "zer0Kerbal, enceos",
+    "version": "1.0.2.0",
+    "ksp_version": "1.12.5",
+    "license": "GPL-2.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/209352-*/",
+        "curse": "https://www.curseforge.com/kerbal/ksp-mods/kerbalhacksltd",
+        "repository": "https://github.com/zer0Kerbal/KerbalHacksLtd/",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/KerbalHacksLtd/master/KerbalHacksLtd.version"
+    },
+    "tags": [
+        "config"
+    ],
+    "localizations": [
+        "en-us",
+        "nl-nl",
+        "ru"
+    ],
+    "install": [
+        {
+            "find": "KerbalHacks",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://mediafilez.forgecdn.net/files/4606/524/KerbalHacksLtd-1.0.2.0-release-CF.zip",
+    "download_size": 1236240,
+    "download_hash": {
+        "sha1": "C885E0A29E63DE2943E16F209082BAA9F148B931",
+        "sha256": "FEC474AE70DF845F730EF29E1FA3D1C4A89CCD94D812821C3AAA02B12443E062"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 3548084,
+    "_$kref": "#/ckan/spacedock/3082",
+    "x_generated_by": "netkan"
+}

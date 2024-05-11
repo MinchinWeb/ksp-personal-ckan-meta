@@ -1,0 +1,40 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "OScienceLaboratories",
+    "name": "O Science Laboratories",
+    "abstract": "Science parts addon consisting of seven science experiments, one science lab, and five novel science experiments for Kerbal Space Program.",
+    "author": "zer0Kerbal",
+    "version": "0.0.6.0-release",
+    "ksp_version_min": "0.9.0",
+    "ksp_version_max": "1.3.9999",
+    "license": "GPL-2.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/209490-*/",
+        "repository": "https://github.com/zer0Kerbal/OScienceLaboratories",
+        "bugtracker": "https://github.com/zer0Kerbal/OScienceLaboratories/issues",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/OScienceLaboratories/master/OScienceLaboratories.version"
+    },
+    "tags": [
+        "science",
+        "parts",
+        "flags",
+        "agent"
+    ],
+    "install": [
+        {
+            "find": "OScienceLaboratories",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://api.github.com/repos/zer0Kerbal/OScienceLaboratories/zipball/0.0.6.0-release",
+    "download_size": 5196737,
+    "download_hash": {
+        "sha1": "F5D89CB60E47915C5DC27310F76E9F4A49F8A715",
+        "sha256": "F635FF4AAEBAFE454A3F87DDB57151F258CCFD352E95C052E00635A2B781337B"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 27569783,
+    "release_date": "2022-08-25T05:48:14Z",
+    "x_via": "MinchinWeb's GitHub to NetKan",
+    "x_generated_by": "netkan"
+}

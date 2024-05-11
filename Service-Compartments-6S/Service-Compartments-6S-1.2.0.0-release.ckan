@@ -1,0 +1,43 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "Service-Compartments-6S",
+    "name": "Service Compartment Tubes",
+    "abstract": "It's a tube.. and a hull... and a cargo bay... and a.. well, just about everything. And it is only 2 PARTS!!! for Kerbal Space Program.",
+    "author": "zer0Kerbal",
+    "version": "1.2.0.0-release",
+    "ksp_version_min": "0.23.5",
+    "ksp_version_max": "0.25.9999",
+    "license": "CC-BY-SA",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/209841-*/",
+        "repository": "https://github.com/zer0Kerbal/ServiceCompartmentTubes",
+        "bugtracker": "https://github.com/zer0Kerbal/ServiceCompartmentTubes/issues",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/ServiceCompartmentTubes/master/ServiceCompartmentTubes.version"
+    },
+    "tags": [
+        "parts",
+        "config"
+    ],
+    "depends": [
+        {
+            "name": "FirespitterCore"
+        }
+    ],
+    "install": [
+        {
+            "find": "ServiceCompartmentTubes",
+            "install_to": "GameData/Nothke"
+        }
+    ],
+    "download": "https://api.github.com/repos/zer0Kerbal/ServiceCompartmentTubes/zipball/1.2.0.0-release",
+    "download_size": 527331,
+    "download_hash": {
+        "sha1": "8F85FCDADA64AC0BD7DAB4824C9F351195BECBFD",
+        "sha256": "579999BBF47D2ABAF2F747E6EF422FDC3EFC285142F49F34C6E8DB1A5657C598"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 2343592,
+    "release_date": "2022-09-22T03:48:00Z",
+    "x_via": "MinchinWeb's GitHub to NetKan",
+    "x_generated_by": "netkan"
+}

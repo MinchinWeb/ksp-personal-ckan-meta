@@ -1,0 +1,39 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "LazTekDev",
+    "name": "Laz Tek Dev",
+    "abstract": "Agent, flags and common configs for LazTek. For Kerbal Space Program.",
+    "author": "zer0Kerbal",
+    "version": "1.0.0.0-release",
+    "ksp_version": "1.12.5",
+    "license": "CC-BY-ND",
+    "resources": {
+        "homepage": "https://zer0kerbal.github.io/LazTekDev/",
+        "repository": "https://github.com/zer0Kerbal/LazTekDev",
+        "bugtracker": "https://github.com/zer0Kerbal/LazTekDev/issues",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/LazTekDev/master/LazTekDev.version"
+    },
+    "tags": [
+        "config"
+    ],
+    "localizations": [
+        "en-us"
+    ],
+    "install": [
+        {
+            "find": "LazTekDev",
+            "install_to": "GameData/LaxTek"
+        }
+    ],
+    "download": "https://api.github.com/repos/zer0Kerbal/LazTekDev/zipball/1.0.0.0-release",
+    "download_size": 2656904,
+    "download_hash": {
+        "sha1": "DFA93053367AD4827E55FCAFB8441AC9339FD9F3",
+        "sha256": "C70A227948BE17DF86295BE005B0CA622692C4CD4EEA5B65E590BAA6C4930B55"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 512084,
+    "release_date": "2023-03-12T05:32:15Z",
+    "_$kref": "#/ckan/spacedock/3172",
+    "x_generated_by": "netkan"
+}

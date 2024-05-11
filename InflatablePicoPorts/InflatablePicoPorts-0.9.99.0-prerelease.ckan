@@ -1,0 +1,45 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "InflatablePicoPorts",
+    "name": "Inflatable Pico Ports",
+    "abstract": "Adds Inflatable PicoPorts for Kerbal Space Program. Requires PicoPorts part mod and Making History (DLC).",
+    "author": "zer0Kerbal",
+    "version": "0.9.99.0-prerelease",
+    "ksp_version": "1.12.3",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/208975-*/",
+        "repository": "https://github.com/zer0Kerbal/InflatablePicoPorts",
+        "bugtracker": "https://github.com/zer0Kerbal/InflatablePicoPorts/issues",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/InflatablePicoPorts/master/InflatablePicoPorts.version"
+    },
+    "tags": [
+        "parts",
+        "crewed"
+    ],
+    "localizations": [
+        "en-us"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "find": "InflatablePicoPorts",
+            "install_to": "GameData/KGEx"
+        }
+    ],
+    "download": "https://api.github.com/repos/zer0Kerbal/InflatablePicoPorts/zipball/0.9.99.0-prerelease",
+    "download_size": 2453193,
+    "download_hash": {
+        "sha1": "D3583BF3E5014997A046004485F68A531BA6CE12",
+        "sha256": "48291AF8BDF9A6619CC61D7A748920CDAEFAB4D96864E340A4D1F185BB3746CD"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 214507,
+    "release_date": "2022-07-15T06:46:44Z",
+    "_$kref": "#/ckan/spacedock/3059",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,57 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "RustyStarShipyards",
+    "name": "Rusty Star Shipyards",
+    "abstract": "Adds Rusty Star Shipyards's agent, flags, and common config files used in all Rusty Star Rockets add-ons for Kerbal Space Program.",
+    "author": "zer0Kerbal",
+    "version": "0.9.99.0-prerelease",
+    "ksp_version": "1.12.3",
+    "license": "CC-BY-ND",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/209405-*/",
+        "repository": "https://github.com/zer0Kerbal/RustyStarShipyards",
+        "bugtracker": "https://github.com/zer0Kerbal/RustyStarShipyards/issues",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/RustyStarShipyards/master/RustyStarShipyards.version"
+    },
+    "tags": [
+        "agent",
+        "flags",
+        "parts",
+        "config",
+        "science"
+    ],
+    "localizations": [
+        "en-us"
+    ],
+    "suggests": [
+        {
+            "name": "PiratesoftheKeribbean"
+        },
+        {
+            "name": "RustyPanels"
+        },
+        {
+            "name": "RustyTexturesforProceduralParts"
+        },
+        {
+            "name": "ZPEPropulsionSystem"
+        }
+    ],
+    "install": [
+        {
+            "find": "RustyStarShipyards",
+            "install_to": "GameData/RustyStar"
+        }
+    ],
+    "download": "https://api.github.com/repos/zer0Kerbal/RustyStarShipyards/zipball/0.9.99.0-prerelease",
+    "download_size": 2283488,
+    "download_hash": {
+        "sha1": "FA5EFE8AFC3AC2B4C56215AC734CDD793B46EFBF",
+        "sha256": "D06687AA50926EE7BE2F25403D229B5BED33B5486E96BAE70282972772DED026"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 527637,
+    "release_date": "2022-08-21T23:01:27Z",
+    "x_via": "MinchinWeb's GitHub to NetKan",
+    "x_generated_by": "netkan"
+}

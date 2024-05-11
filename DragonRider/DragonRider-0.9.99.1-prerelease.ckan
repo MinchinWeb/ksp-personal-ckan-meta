@@ -1,0 +1,48 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "DragonRider",
+    "name": "Dragon Rider",
+    "abstract": "Dragon Rider (Originally By cBBp) for Kerbal Space Program.",
+    "author": [
+        "macluky",
+        "zer0Kerbal"
+    ],
+    "version": "0.9.99.1-prerelease",
+    "ksp_version_min": "1.0.0",
+    "license": "CC-BY-ND",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/210281-*/",
+        "repository": "https://github.com/zer0Kerbal/DragonRider",
+        "bugtracker": "https://github.com/zer0Kerbal/DragonRider/issues",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/DragonRider/master/DragonRider.version"
+    },
+    "tags": [
+        "parts",
+        "crewed"
+    ],
+    "localizations": [
+        "en-us"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "find": "DragonRider",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://api.github.com/repos/zer0Kerbal/DragonRider/zipball/0.9.99.1-prerelease",
+    "download_size": 16319053,
+    "download_hash": {
+        "sha1": "B88BC13B20DAE8275DAFCBA7D46A6949CC2831AB",
+        "sha256": "7DEBC34E9CF2AF4EB41CB8B1C99ABD13B0FAC811E248180001493C64734E798E"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 12491613,
+    "release_date": "2022-10-28T05:01:00Z",
+    "_$kref": "#/ckan/spacedock/3140",
+    "x_generated_by": "netkan"
+}

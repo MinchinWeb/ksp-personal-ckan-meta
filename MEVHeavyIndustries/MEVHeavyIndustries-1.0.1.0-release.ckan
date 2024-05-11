@@ -1,0 +1,54 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "MEVHeavyIndustries",
+    "name": "MEV Heavy Industries",
+    "abstract": "Daedalus, Bussard and Epstein drives for Kerbal Space Program.",
+    "author": "zer0Kerbal",
+    "version": "1.0.1.0-release",
+    "ksp_version_min": "1.7.1",
+    "ksp_version_max": "1.11.9999",
+    "license": "CC-BY-NC-SA",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/209730-*/",
+        "repository": "https://github.com/zer0Kerbal/MEVHeavyIndustries",
+        "bugtracker": "https://github.com/zer0Kerbal/MEVHeavyIndustries/issues",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/MEVHeavyIndustries/master/MEVHeavyIndustries.version"
+    },
+    "tags": [
+        "parts",
+        "config"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "supports": [
+        {
+            "name": "InterstellarFuelSwitch"
+        },
+        {
+            "name": "KSPInterstellarExtended"
+        },
+        {
+            "name": "TweakScale"
+        }
+    ],
+    "install": [
+        {
+            "find": "MEVHeavyIndustries",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://api.github.com/repos/zer0Kerbal/MEVHeavyIndustries/zipball/1.0.1.0-release",
+    "download_size": 9272688,
+    "download_hash": {
+        "sha1": "E39622248BFFBB3BCA428AD0C5E7E4889A7501DF",
+        "sha256": "CD658725668C144B71C6C312F5E1DEB131CCE6EB4F9BEA4CC7AE5FC0CD52BAF8"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 2364257,
+    "release_date": "2022-11-03T01:51:28Z",
+    "x_via": "MinchinWeb's GitHub to NetKan",
+    "x_generated_by": "netkan"
+}

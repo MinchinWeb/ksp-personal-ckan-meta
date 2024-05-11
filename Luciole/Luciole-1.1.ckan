@@ -1,0 +1,34 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "Luciole",
+    "name": "Luciole",
+    "abstract": "Parts Mod 0.625 Launcher",
+    "author": "Well",
+    "version": "1.1",
+    "ksp_version": "1.9.1",
+    "license": "CC-BY-NC-ND",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/193010-191-luciole-10/",
+        "spacedock": "https://spacedock.info/mod/2392/Luciole",
+        "x_screenshot": "https://spacedock.info/content/Well_7448/Luciole/Luciole-1586456215.882042.jpg"
+    },
+    "tags": [
+        "parts"
+    ],
+    "install": [
+        {
+            "find": "Luciole",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2392/Luciole/download/1.1",
+    "download_size": 7229711,
+    "download_hash": {
+        "sha1": "F5B17B2A0FE303512ECF4C734FA6142FB2360610",
+        "sha256": "49EBD65051C9927C9538ABDC8F663FCD88570161FB4D086E41AA06A90364A6A0"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 26048109,
+    "release_date": "2020-04-16T02:43:24.261116-06:00",
+    "x_generated_by": "netkan"
+}

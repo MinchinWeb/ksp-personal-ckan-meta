@@ -1,0 +1,45 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "StorkDeliverySystem",
+    "name": "Stork Delivery System",
+    "abstract": "Deliver your big cargo to the planet surface without flipping!",
+    "author": [
+        "riocrokite",
+        "zer0Kerbal"
+    ],
+    "version": "0.0.3.0",
+    "ksp_version_min": "1.7.1",
+    "ksp_version_max": "1.7.3",
+    "license": "CC-BY-NC-SA",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/191921-*/",
+        "repository": "https://github.com/zer0Kerbal/StorkDeliverySystem",
+        "bugtracker": "https://github.com/zer0Kerbal/StorkDeliverySystem/issues",
+        "remote-avc": "https://github.com/zer0Kerbal/KGEx/StorkDeliverySystem/StorkDeliverySystem.version"
+    },
+    "localizations": [
+        "en-us"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "find": "StorkDeliverySystem",
+            "install_to": "GameData/KermangeddonIndustries"
+        }
+    ],
+    "download": "https://api.github.com/repos/zer0Kerbal/StorkDeliverySystem/zipball/0.0.3.0",
+    "download_size": 13249002,
+    "download_hash": {
+        "sha1": "B5DE5A03B5BA2A2E2BAAB97CDE6D8E80BB5420F6",
+        "sha256": "8AFD7F70EDF8268C4CD6583F039601D9D26D534239D9FCFD36BC362894EFAB7A"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 1345743,
+    "release_date": "2020-02-25T06:06:07Z",
+    "x_via": "MinchinWeb's GitHub to NetKan",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,57 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "DMTanks-AeroRTG",
+    "name": "Aero Radial",
+    "abstract": "All of the power, none of the ugly. This electric charge parts addon adding several streamlined radial attached parts: one radioisotope thermoelectric generator (RTG) and one fuel cell, for Kerbal Space Program.",
+    "author": "zer0Kerbal",
+    "version": "1.1.0.1-prerelease",
+    "ksp_version_min": "1.3.1",
+    "ksp_version_max": "1.9.9999",
+    "license": "CC-BY-SA",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/208118-*/",
+        "repository": "https://github.com/zer0Kerbal/AeroRadial",
+        "bugtracker": "https://github.com/zer0Kerbal/AeroRadial/issues",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/AeroRadial/master/AeroRadial.version"
+    },
+    "tags": [
+        "parts",
+        "resources"
+    ],
+    "localizations": [
+        "en-us"
+    ],
+    "depends": [
+        {
+            "name": "DaMichelLtd"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "DMTanks-CargoBays"
+        },
+        {
+            "name": "DMTanks-Fuselage"
+        },
+        {
+            "name": "DMTanks-SphericalTanks"
+        }
+    ],
+    "install": [
+        {
+            "find": "AeroRadial",
+            "install_to": "GameData/DaMichel"
+        }
+    ],
+    "download": "https://api.github.com/repos/zer0Kerbal/AeroRadial/zipball/1.1.0.1-prerelease",
+    "download_size": 3457564,
+    "download_hash": {
+        "sha1": "920AA18F4E755F3307CC13ADAF72A7286DDD34E0",
+        "sha256": "45ACB8D65E02987C9000C6E3C41712992833DA9F4CD74C0C177B6EAC6D6B3226"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 2565130,
+    "release_date": "2022-05-11T05:52:33Z",
+    "x_via": "MinchinWeb's GitHub to NetKan",
+    "x_generated_by": "netkan"
+}

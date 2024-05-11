@@ -1,0 +1,40 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "BobCatIndustries",
+    "name": "Bob Cat Ind",
+    "abstract": "Adds BobCat Industries's agent, flags, and common config files used in all Fuel Tanks Plus add-ons for Kerbal Space Program.",
+    "author": "zer0Kerbal",
+    "version": "0.9.99.1-prerelease",
+    "ksp_version": "1.12.5",
+    "license": "CC-BY-SA-4.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/209729-*/",
+        "repository": "https://github.com/zer0Kerbal/BobCatInd",
+        "bugtracker": "https://github.com/zer0Kerbal/BobCatInd/issues",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/BobCatInd/master/BobCatInd.version"
+    },
+    "tags": [
+        "config"
+    ],
+    "localizations": [
+        "en-us",
+        "pt-br"
+    ],
+    "install": [
+        {
+            "find": "BobCatInd",
+            "install_to": "GameData/BobCat"
+        }
+    ],
+    "download": "https://api.github.com/repos/zer0Kerbal/BobCatInd/zipball/0.9.99.1-prerelease",
+    "download_size": 2483601,
+    "download_hash": {
+        "sha1": "1ED997F2337C973C031FB0DC18684B095B0B0CB9",
+        "sha256": "93DA2A5EC8D2E1BFE3ED8794ED43C540B1369CC9B0801E77749105D18150DA71"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 1610302,
+    "release_date": "2023-04-24T22:28:46Z",
+    "_$kref": "#/ckan/spacedock/3120",
+    "x_generated_by": "netkan"
+}

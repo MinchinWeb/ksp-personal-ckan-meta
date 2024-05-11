@@ -1,0 +1,61 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "OblivionAerospace",
+    "name": "Oblivion Aerospace",
+    "abstract": "A small parts package of heat shields for Kerbal Space Program (KSP) that also works with Deadly Reentry.",
+    "author": [
+        "olaisolheim",
+        "HeroOfFire45",
+        "zer0Kerbal"
+    ],
+    "version": "0.2.99.0-adoption",
+    "ksp_version_min": "0.9.0",
+    "license": "CC-BY-SA",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/207446-*/",
+        "repository": "https://github.com/zer0Kerbal/OblivionAerospace",
+        "bugtracker": "https://github.com/zer0Kerbal/OblivionAerospace/issues",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/OblivionAerospace/master/OblivionAerospace.version"
+    },
+    "tags": [
+        "parts"
+    ],
+    "localizations": [
+        "en-us"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "DeadlyReentry"
+        }
+    ],
+    "supports": [
+        {
+            "name": "FerramAerospaceResearchContinued"
+        },
+        {
+            "name": "TweakScale"
+        }
+    ],
+    "install": [
+        {
+            "find": "OblivionAerospace",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://api.github.com/repos/zer0Kerbal/OblivionAerospace/zipball/0.2.99.0-adoption",
+    "download_size": 23789207,
+    "download_hash": {
+        "sha1": "E70931DD9A650C7108D4426A30B7416E54CD98E9",
+        "sha256": "0485EB304E2C415ACEE7F834FFEA438AEAD0E62FB7EFA93E1AB8DB7910FFC1E4"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 2244347,
+    "release_date": "2022-05-01T07:02:11Z",
+    "x_via": "MinchinWeb's GitHub to NetKan",
+    "x_generated_by": "netkan"
+}

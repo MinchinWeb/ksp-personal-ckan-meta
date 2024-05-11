@@ -1,0 +1,47 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "RadialOmniSeparator",
+    "name": "Radial Omni Separator",
+    "abstract": "Radial Omni Separator parts for Kerbal Space Program",
+    "author": "zer0Kerbal",
+    "version": "1.0.0.3-release",
+    "ksp_version_min": "1.3.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/209926-*/",
+        "repository": "https://github.com/zer0Kerbal/RadialOmniSeparator",
+        "bugtracker": "https://github.com/zer0Kerbal/RadialOmniSeparator/issues",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/RadialOmniSeparator/master/RadialOmniSeparator.version"
+    },
+    "tags": [
+        "parts"
+    ],
+    "localizations": [
+        "en-us",
+        "es-es",
+        "it-it",
+        "no-no"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "find": "RadialOmniSeparator",
+            "install_to": "GameData/nli2work"
+        }
+    ],
+    "download": "https://api.github.com/repos/zer0Kerbal/RadialOmniSeparator/zipball/1.0.0.3-release",
+    "download_size": 5009511,
+    "download_hash": {
+        "sha1": "D5251A99DE6FE7D01CBEA9E0D6493F92CC4D38F9",
+        "sha256": "73F8F2DD48753C4FAC123A023172359859E485D387EBD303F79E6880597DA4D9"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 552118,
+    "release_date": "2022-10-19T00:59:08Z",
+    "_$kref": "#/ckan/spacedock/3129",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,47 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "NukesTinyGirders",
+    "name": "Nukes Tiny Girders",
+    "abstract": "Tiny part addon that adds Nuke's Tiny Girders for Kerbal Space Program.",
+    "author": "zer0Kerbal",
+    "version": "0.9.99.0-adoption",
+    "ksp_version": "1.12.3",
+    "license": "GPL-2.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/209393-*/",
+        "repository": "https://github.com/zer0Kerbal/NukesTinyGirders",
+        "bugtracker": "https://github.com/zer0Kerbal/NukesTinyGirders/issues",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/NukesTinyGirder/master/NukesTinyGirder.version"
+    },
+    "tags": [
+        "parts"
+    ],
+    "localizations": [
+        "en-us"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "NukesUnlimited"
+        }
+    ],
+    "install": [
+        {
+            "find": "NukesTinyGirders",
+            "install_to": "GameData/Nuke"
+        }
+    ],
+    "download": "https://api.github.com/repos/zer0Kerbal/NukesTinyGirders/zipball/0.9.99.0-adoption",
+    "download_size": 2504100,
+    "download_hash": {
+        "sha1": "9B25BAD82EC1AC6313E316C12057D48CACA33FA6",
+        "sha256": "B1DBCEC04AB8D82DF760F53224FBFB0B0D3DC6531522F3E633C9F19B2E4862FC"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 3117594,
+    "release_date": "2022-08-17T06:16:03Z",
+    "_$kref": "#/ckan/spacedock/3085",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,44 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "KerbalXMAS",
+    "name": "Kerbal XMAS",
+    "abstract": "A holiday themed parts addon for For Kerbal Space Program.",
+    "author": "zer0Kerbal",
+    "version": "1.0.3.2-release",
+    "ksp_version_min": "0.90.0",
+    "ksp_version_max": "1.3.9999",
+    "license": "GPL-2.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/211153-*/",
+        "repository": "https://github.com/zer0Kerbal/KerbalXMAS",
+        "bugtracker": "https://github.com/zer0Kerbal/KerbalXMAS/issues",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/KerbalXMAS/master/KerbalXMAS.version"
+    },
+    "tags": [
+        "plugin",
+        "parts",
+        "crewed"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "find": "KerbalXMAS",
+            "install_to": "GameData/LunaticAeronautics"
+        }
+    ],
+    "download": "https://api.github.com/repos/zer0Kerbal/KerbalXMAS/zipball/1.0.3.2-release",
+    "download_size": 15517881,
+    "download_hash": {
+        "sha1": "C8523A97F82CDB939895B181E78AD5F9476453F1",
+        "sha256": "8C97B30574475C69FCB7ACA381F24D126FBA35995C5546287895EDCD0794C3AD"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 9914976,
+    "release_date": "2022-12-22T06:53:11Z",
+    "_$kref": "#/ckan/spacedock/3179",
+    "x_generated_by": "netkan"
+}

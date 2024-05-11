@@ -1,0 +1,41 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "SensorModules",
+    "name": "Sensor Modules",
+    "abstract": "Exterior of your spaceships are too cluttered? Sensors hanging all about? Ever confuse a gravioli sensor with a thermo cup of tea? Well, we have the King of advanced science tech for you! The unbeatable, unbreakable and undeniable sensooOOR MODUUUUUUULE! Grab it at our shop while it's still hot! Or better don't. Because it's hot! For KSP.",
+    "author": "zer0Kerbal",
+    "version": "0.2.0.0-release",
+    "ksp_version_min": "0.23.0",
+    "license": "CC-BY-ND-4.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/211260-*/",
+        "repository": "https://github.com/zer0Kerbal/SensorModules",
+        "bugtracker": "https://github.com/zer0Kerbal/SensorModules/issues",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/SensorModules/master/SensorModules.version"
+    },
+    "tags": [
+        "parts"
+    ],
+    "depends": [
+        {
+            "name": "HotBeverageInc"
+        }
+    ],
+    "install": [
+        {
+            "find": "SensorModules",
+            "install_to": "GameData/HotBeverage"
+        }
+    ],
+    "download": "https://api.github.com/repos/zer0Kerbal/SensorModules/zipball/0.2.0.0-release",
+    "download_size": 3220829,
+    "download_hash": {
+        "sha1": "279F00377B094BE1EDA827934BCBD08FFD1C3AC6",
+        "sha256": "27A39D41313AAF27CC11CAF325F3C24084E3AF40F81884839DD6FC535365EC23"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 933993,
+    "release_date": "2023-01-02T05:17:16Z",
+    "_$kref": "#/ckan/spacedock/3184",
+    "x_generated_by": "netkan"
+}

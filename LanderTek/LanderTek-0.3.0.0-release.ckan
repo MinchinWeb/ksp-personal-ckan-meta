@@ -1,0 +1,43 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "LanderTek",
+    "name": "Lander Tek",
+    "abstract": "This is a modular pack of 1.25m, 1.875m, and 2.5m lander parts for Kerbal Space Program.",
+    "author": "zer0Kerbal",
+    "version": "0.3.0.0-release",
+    "ksp_version_min": "0.90.0",
+    "ksp_version_max": "1.4.9999",
+    "license": "GPL-2.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/207923-*/",
+        "repository": "https://github.com/zer0Kerbal/LanderTek",
+        "bugtracker": "https://github.com/zer0Kerbal/LanderTek/issues",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/LanderTek/master/LanderTek.version"
+    },
+    "tags": [
+        "parts",
+        "crewed"
+    ],
+    "depends": [
+        {
+            "name": "AxialAerospaceLtd"
+        }
+    ],
+    "install": [
+        {
+            "find": "LanderTek",
+            "install_to": "GameData/AxialAerospace"
+        }
+    ],
+    "download": "https://api.github.com/repos/zer0Kerbal/LanderTek/zipball/0.3.0.0-release",
+    "download_size": 49912706,
+    "download_hash": {
+        "sha1": "A31BAB6556ED8698A7EF42021D150D340EDE91E5",
+        "sha256": "AC5777635F05CE874FEE67B4C3F9CEFF7314E03296484CA80CEB901C869EF673"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 37730665,
+    "release_date": "2022-04-26T06:28:09Z",
+    "_$kref": "#/ckan/spacedock/3020",
+    "x_generated_by": "netkan"
+}
