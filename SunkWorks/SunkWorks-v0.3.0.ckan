@@ -1,0 +1,46 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "SunkWorks",
+    "name": "Sunk Works",
+    "abstract": "Maritime Technologies for KSP",
+    "author": "Angel-125",
+    "version": "v0.3.0",
+    "ksp_version_min": "1.12.2",
+    "license": "restricted",
+    "resources": {
+        "repository": "https://github.com/Angel-125/SunkWorks",
+        "bugtracker": "https://github.com/Angel-125/SunkWorks/issues",
+        "remote-avc": "https://raw.githubusercontent.com/Angel-125/SunkWorks/master/ReleaseFolder/GameData/WildBlueIndustries/SunkWorks/SunkWorks.version"
+    },
+    "tags": [
+        "parts"
+    ],
+    "localizations": [
+        "en-us"
+    ],
+    "depends": [
+        {
+            "name": "WildBlueCore"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "find": "SunkWorks",
+            "install_to": "GameData/WildBlueIndustries"
+        }
+    ],
+    "download": "https://github.com/Angel-125/SunkWorks/releases/download/v0.3.0/SunkWorks.zip",
+    "download_size": 39735450,
+    "download_hash": {
+        "sha1": "2C30F814241BEF634B2CCC11E8BA08F9C5A7D058",
+        "sha256": "C5854865A1AF0BC2F9D0C045CA69B4C85B9EA3B5940FBE0A06D7DB155E74FF3F"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 133713346,
+    "release_date": "2022-11-08T23:18:56Z",
+    "x_via": "MinchinWeb's GitHub to NetKan",
+    "x_generated_by": "netkan"
+}
