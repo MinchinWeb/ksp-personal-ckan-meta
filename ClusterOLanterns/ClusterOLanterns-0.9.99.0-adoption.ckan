@@ -35,6 +35,5 @@
     "install_size": 2503173,
     "release_date": "2022-10-30T06:15:50Z",
     "_$kref": "#/ckan/spacedock/3141",
-    "_hold_reason": "bad KSP version (and last compatible with v0.90)",
     "x_generated_by": "netkan"
 }

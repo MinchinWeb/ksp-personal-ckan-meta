@@ -23,6 +23,15 @@
     ],
     "suggests": [
         {
+            "name": "DMTanks-AeroRTG"
+        },
+        {
+            "name": "DMTanks-CargoBays"
+        },
+        {
+            "name": "DMTanks-Fuselage"
+        },
+        {
             "name": "DMTanks-SphericalTanks"
         }
     ],
