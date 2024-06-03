@@ -10,6 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/193010-191-luciole-10/",
         "spacedock": "https://spacedock.info/mod/2392/Luciole",
+        "repository": "https://github.com/AstroWell/Luciole",
+        "bugtracker": "https://github.com/AstroWell/Luciole/issues",
         "x_screenshot": "https://spacedock.info/content/Well_7448/Luciole/Luciole-1586456215.882042.jpg"
     },
     "tags": [
