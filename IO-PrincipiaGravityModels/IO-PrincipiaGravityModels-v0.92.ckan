@@ -1,0 +1,39 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "IO-PrincipiaGravityModels",
+    "name": "IO PrincipiaGravityModels",
+    "abstract": "A set of configs to give axial tilt, for use in Principia.",
+    "author": "IIodyne",
+    "version": "v0.92",
+    "license": "MIT",
+    "resources": {
+        "repository": "https://github.com/IIodyne/IO-PrincipiaGravityModels",
+        "bugtracker": "https://github.com/IIodyne/IO-PrincipiaGravityModels/issues"
+    },
+    "tags": [
+        "planets",
+        "config"
+    ],
+    "depends": [
+        {
+            "name": "Principia"
+        }
+    ],
+    "install": [
+        {
+            "find": "IO-PrincipiaGravityModels/GameData/Iodyne/IO-PrincipiaGravityModels",
+            "install_to": "GameData/Iodyne"
+        }
+    ],
+    "download": "https://github.com/IIodyne/IO-PrincipiaGravityModels/releases/download/v0.92/IO-PrincipiaGravityModels.zip",
+    "download_size": 10367,
+    "download_hash": {
+        "sha1": "AD0B5DFCBA52DF67EED34DB4BC994B8D94ECD15B",
+        "sha256": "B6412F7DB32D008C2CFF3A3C755BF8A83E0DB017CA616B68DD93A693BDC868FA"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 29068,
+    "release_date": "2023-04-26T02:47:03Z",
+    "x_via": "MinchinWeb's GitHub to NetKan",
+    "x_generated_by": "netkan"
+}

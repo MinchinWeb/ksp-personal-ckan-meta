@@ -1,0 +1,73 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "IO-AlteredOrbits",
+    "name": "IO AlteredOrbits",
+    "abstract": "A set of configs that alter the orbits and properties of celestial bodies, for stock and some other planet packs.",
+    "author": "IIodyne",
+    "version": "v0.92",
+    "license": "MIT",
+    "resources": {
+        "repository": "https://github.com/IIodyne/IO-AlteredOrbits",
+        "bugtracker": "https://github.com/IIodyne/IO-AlteredOrbits/issues"
+    },
+    "tags": [
+        "planets",
+        "config"
+    ],
+    "depends": [
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "IO-PrincipiaGravityModels"
+        }
+    ],
+    "supports": [
+        {
+            "name": "OuterPlanetsMod"
+        },
+        {
+            "name": "MinorPlanetsExpansion"
+        },
+        {
+            "name": "JanetsPlanets"
+        },
+        {
+            "name": "ExtrasolarPlanetsBeyondKerbol-RealisticScale"
+        },
+        {
+            "name": "ExtrasolarPlanetsBeyondKerbol-stock"
+        },
+        {
+            "name": "GrannusExpansionPack"
+        },
+        {
+            "name": "Principia"
+        },
+        {
+            "name": "IO-PrincipiaOrbitPatches"
+        }
+    ],
+    "install": [
+        {
+            "find": "IO-AlteredOrbits/GameData/Iodyne/IO-AlteredOrbits",
+            "install_to": "GameData/Iodyne"
+        }
+    ],
+    "download": "https://github.com/IIodyne/IO-AlteredOrbits/releases/download/v0.92/IO-AlteredOrbits.zip",
+    "download_size": 8413,
+    "download_hash": {
+        "sha1": "D04BD43D498B8663FE3505579DDCD6AD3D508B45",
+        "sha256": "975A0BF1796CC6B384052CA7FFFAD5F08F873A8E31449C0198E92E31D6512B89"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 12035,
+    "release_date": "2023-04-26T02:55:30Z",
+    "x_via": "MinchinWeb's GitHub to NetKan",
+    "x_generated_by": "netkan"
+}

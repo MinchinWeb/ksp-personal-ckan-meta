@@ -1,0 +1,45 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "Sigma-OuterSpaceComms",
+    "name": "Sigma OuterSpaceComms",
+    "abstract": "Antennas to probe deep into outer space",
+    "author": "Sigma88",
+    "version": "v1.1.0",
+    "ksp_version": "1.1.2",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "repository": "https://github.com/Sigma88/Sigma-OuterSpaceComms",
+        "bugtracker": "https://github.com/Sigma88/Sigma-OuterSpaceComms/issues",
+        "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=179"
+    },
+    "tags": [
+        "parts"
+    ],
+    "depends": [
+        {
+            "name": "RemoteTech"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "OuterPlanetsMod"
+        }
+    ],
+    "install": [
+        {
+            "find": "Sigma/OuterSpaceComms",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://github.com/Sigma88/Sigma-OuterSpaceComms/releases/download/v1.1.0/Sigma-OuterSpaceComms.v1.1.0.zip",
+    "download_size": 924293,
+    "download_hash": {
+        "sha1": "0183F2EBD013F2D9CDCD77A9FA62D8EF534CB0B7",
+        "sha256": "C072D8964385CDD16F6815137039EB684DAD1CF97D473B732FFDF93C95C6900B"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 6296875,
+    "release_date": "2016-03-19T16:16:09Z",
+    "x_via": "MinchinWeb's GitHub to NetKan",
+    "x_generated_by": "netkan"
+}

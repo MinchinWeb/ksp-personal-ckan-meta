@@ -1,0 +1,44 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "IO-Misc",
+    "name": "IO Misc",
+    "abstract": "A set of miscellaneous configs.",
+    "author": "IIodyne",
+    "version": "v0.1",
+    "license": "MIT",
+    "resources": {
+        "repository": "https://github.com/IIodyne/IO-Misc",
+        "bugtracker": "https://github.com/IIodyne/IO-Misc/issues"
+    },
+    "tags": [
+        "planets",
+        "config"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "Principia"
+        }
+    ],
+    "install": [
+        {
+            "find": "IO-Misc/GameData/Iodyne/IO-Misc",
+            "install_to": "GameData/Iodyne"
+        }
+    ],
+    "download": "https://github.com/IIodyne/IO-Misc/releases/download/v0.1/IO-Misc.zip",
+    "download_size": 3396,
+    "download_hash": {
+        "sha1": "2433D64CA89F22A7260BDEF39EE14C83B3C16C2B",
+        "sha256": "30AE11640D9E3E13526B6616E971F90C77BB0BB5CBCEF80C7BD257DA18F8BA89"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 3308,
+    "release_date": "2023-03-27T06:17:56Z",
+    "x_via": "MinchinWeb's GitHub to NetKan",
+    "x_generated_by": "netkan"
+}
