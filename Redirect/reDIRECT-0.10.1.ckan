@@ -1,0 +1,53 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "reDIRECT",
+    "name": "reDIRECT",
+    "abstract": "Shuttle-derived heavy lift vehicles for Kerbal Space Program.",
+    "author": "Benjee10",
+    "version": "0.10.1",
+    "ksp_version": "1.8.1",
+    "license": "restricted",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/172187-141-redirect-shuttle-derived-heavy-lift-v090-beta-release/",
+        "spacedock": "https://spacedock.info/mod/1742/reDIRECT",
+        "x_screenshot": "https://spacedock.info/content/Benjee10_2390/reDIRECT/reDIRECT-1560692345.9284508.jpg"
+    },
+    "depends": [
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "Benjee10-SharedAssets"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "supports": [
+        {
+            "name": "PlumeParty"
+        },
+        {
+            "name": "DeployableEngines"
+        }
+    ],
+    "install": [
+        {
+            "find": "reDIRECT",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1742/reDIRECT/download/0.10.1",
+    "download_size": 163933866,
+    "download_hash": {
+        "sha1": "E3459D7FB7BB2D0DABE2DF9A4381EA0872A986DE",
+        "sha256": "162E77C5CC1968668B77757D0D5BA9FC23A1F7402A3E8C5A13FF864929F588CC"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 191366580,
+    "release_date": "2020-02-05T12:44:19.956992-07:00",
+    "x_generated_by": "netkan"
+}
