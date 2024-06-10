@@ -44,6 +44,7 @@
     "download_content_type": "application/zip",
     "install_size": 13487259,
     "release_date": "2022-07-01T09:05:33Z",
+    "epcoh": 1,
     "x_via": "MinchinWeb's GitHub to NetKan",
     "x_generated_by": "netkan"
 }
