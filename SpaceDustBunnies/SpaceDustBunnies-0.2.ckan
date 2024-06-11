@@ -1,0 +1,44 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "SpaceDustBunnies",
+    "name": "Space Dust Bunnies",
+    "abstract": "More resources for Nertea's Space Dust system",
+    "author": "JadeOfMaar",
+    "version": "0.2",
+    "ksp_version": "1.10.1",
+    "license": "MIT",
+    "resources": {
+        "repository": "https://github.com/JadeOfMaar/SpaceDustBunnies",
+        "bugtracker": "https://github.com/JadeOfMaar/SpaceDustBunnies/issues",
+        "remote-avc": "https://raw.githubusercontent.com:443/JadeOfMaar/SpaceDustBunnies/main/GameData/SpaceDustBunnies/Version/SpaceDustBunnies.version"
+    },
+    "tags": [
+        "config",
+        "planets"
+    ],
+    "localizations": [
+        "en-us"
+    ],
+    "depends": [
+        {
+            "name": "SpaceDust"
+        }
+    ],
+    "install": [
+        {
+            "find": "SpaceDustBunnies",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://github.com/JadeOfMaar/SpaceDustBunnies/releases/download/0.2/SpaceDustBunnies-0.2.zip",
+    "download_size": 24833,
+    "download_hash": {
+        "sha1": "DAC7370388EBE913E9F3E48A47AB2CB3DB9103D6",
+        "sha256": "EE5AE082624DC8BDE980567AFD94F58CA18BD99991417D73FB1D6C2EC492D875"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 100031,
+    "release_date": "2020-11-19T23:52:05Z",
+    "x_via": "MinchinWeb's GitHub to NetKan",
+    "x_generated_by": "netkan"
+}

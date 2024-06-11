@@ -1,0 +1,66 @@
+{
+    "spec_version": "v1.27",
+    "identifier": "SterlingSystems-Core",
+    "name": "Stirling Systems - Core",
+    "abstract": "A very large KSP mod. Similar scope to Far Future Tech or KSP Interstellar \n",
+    "author": "JadeOfMaar",
+    "version": "0.3.8.0",
+    "ksp_version_min": "1.12.0",
+    "ksp_version_max": "1.12.5",
+    "license": "CC-BY-SA",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/219609-1125-sterling-systems-v038-apr-20-2024/",
+        "repository": "https://github.com/JadeOfMaar/SterlingSystems/",
+        "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/SterlingSystems/dev/GameData/SterlingSystems/Version/SterlingSystems.version"
+    },
+    "tags": [
+        "parts"
+    ],
+    "localizations": [
+        "en-us"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "supports": [
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "FarFutureTechnologies"
+        },
+        {
+            "name": "IndicatorLights"
+        },
+        {
+            "name": "Kerbalism"
+        },
+        {
+            "name": "SimpleRepaint"
+        },
+        {
+            "name": "SystemHeat"
+        },
+        {
+            "name": "Waterfall"
+        }
+    ],
+    "install": [
+        {
+            "find": "SterlingSystems",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://github.com/JadeOfMaar/SterlingSystems/releases/download/0.3.8/Sterling_Core_0.3.8.zip",
+    "download_size": 404269,
+    "download_hash": {
+        "sha1": "F11C03FC407582C946F0EBA9FE2F4173DA7FA089",
+        "sha256": "BF24F67978C7F3B572C05378940D43888DED503F640B0FDBED24395B09EE0AB6"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 2313744,
+    "_$kref": "#/ckan/github/JadeOfMaar/SterlingSystems/asset_match/Sterling_Core(.*).zip",
+    "x_generated_by": "netkan"
+}
