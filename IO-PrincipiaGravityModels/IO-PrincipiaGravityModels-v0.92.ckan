@@ -17,6 +17,9 @@
     "depends": [
         {
             "name": "Principia"
+        },
+        {
+            "name": "ModuleManager"
         }
     ],
     "install": [

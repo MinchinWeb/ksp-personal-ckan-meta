@@ -1,0 +1,53 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "FieldTrainingFacility",
+    "name": "Field Training Facility",
+    "abstract": "This addon provides a training system for your kerbalnauts by adding a training center to all science laboratories. Training consumes Time and Electric Charge. For Kerbal Space Program.",
+    "author": "zer0Kerbal",
+    "version": "1.2.2.0-release",
+    "ksp_version_min": "1.8.1",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/188841-*/",
+        "repository": "https://github.com/zer0Kerbal/FieldTrainingFacility",
+        "bugtracker": "https://github.com/zer0Kerbal/FieldTrainingFacility/issues",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/FieldTrainingFacility/master/FieldTrainingFacility.version"
+    },
+    "localizations": [
+        "en-us",
+        "zh-cn"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "FieldTrainingLaboratory"
+        },
+        {
+            "name": "BetterScienceLabs"
+        },
+        {
+            "name": "KGEx"
+        }
+    ],
+    "install": [
+        {
+            "find": "FieldTrainingFacility",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://api.github.com/repos/zer0Kerbal/FieldTrainingFacility/zipball/1.2.2.0-release",
+    "download_size": 4343030,
+    "download_hash": {
+        "sha1": "28F14A054C903E3293C03FAAC01840FB53034DC0",
+        "sha256": "2999D7C518C738B9D47F584F0CA85ACF086C9E2753EE15BE4EA9EFBF0CB2B52D"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 323377,
+    "release_date": "2023-01-11T05:58:01Z",
+    "x_via": "MinchinWeb's GitHub to NetKan",
+    "x_generated_by": "netkan"
+}

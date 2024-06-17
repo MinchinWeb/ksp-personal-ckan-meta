@@ -1,0 +1,54 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "ISRUThanksButNoTanks",
+    "name": "ISRU Thanks But No Tanks",
+    "abstract": "ModularManagement config script for to allow mining and converting Ore without storage tanks by adding a small amount of storage to stock parts. For Kerbal Space Program.",
+    "author": [
+        "QuickBASIC",
+        "zer0Kerbal"
+    ],
+    "version": "1.0.0.0-release",
+    "ksp_version_min": "1.3.1",
+    "license": "GPL-2.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/204750-*/",
+        "repository": "https://github.com/zer0Kerbal/ISRUThanksButNoTanks",
+        "bugtracker": "https://github.com/zer0Kerbal/ISRUThanksButNoTanks/issues",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/ISRUThanksButNoTanks/master/ISRUThanksButNoTanks.version"
+    },
+    "tags": [
+        "config",
+        "parts",
+        "patch"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "KerbalChangelog"
+        },
+        {
+            "name": "StockalikeMiningExtension"
+        }
+    ],
+    "install": [
+        {
+            "find": "ISRUThanksButNoTanks",
+            "install_to": "GameData/QuickBASIC"
+        }
+    ],
+    "download": "https://api.github.com/repos/zer0Kerbal/ISRUThanksButNoTanks/zipball/1.0.0.0-release",
+    "download_size": 5679425,
+    "download_hash": {
+        "sha1": "72A9D5AB0682C5191B8E40EF8572D6C8EE1CB1BB",
+        "sha256": "A091D578AF700CBDFAC49CAA3E76EF76DF98CBBEC7BC138D5438E7577780AB87"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 50635,
+    "release_date": "2023-04-24T01:59:23Z",
+    "x_via": "MinchinWeb's GitHub to NetKan",
+    "x_generated_by": "netkan"
+}
