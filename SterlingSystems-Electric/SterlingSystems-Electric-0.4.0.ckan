@@ -1,0 +1,65 @@
+{
+    "spec_version": "v1.27",
+    "identifier": "SterlingSystems-Electric",
+    "name": "Stirling Systems - Electric",
+    "abstract": "A very large KSP mod. Similar scope to Far Future Tech or KSP Interstellar \n",
+    "author": "JadeOfMaar",
+    "version": "0.4.0",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-SA",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/219609-1125-sterling-systems-v038-apr-20-2024/",
+        "repository": "https://github.com/JadeOfMaar/SterlingSystems/",
+        "x_remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/SterlingSystems/dev/GameData/SterlingSystems/Version/SterlingSystems.version"
+    },
+    "tags": [
+        "parts"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "SterlingSystems-Core"
+        }
+    ],
+    "supports": [
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "FarFutureTechnologies"
+        },
+        {
+            "name": "IndicatorLights"
+        },
+        {
+            "name": "Kerbalism"
+        },
+        {
+            "name": "SimpleRepaint"
+        },
+        {
+            "name": "SystemHeat"
+        },
+        {
+            "name": "Waterfall"
+        }
+    ],
+    "install": [
+        {
+            "find": "SterlingSystems",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://github.com/JadeOfMaar/SterlingSystems/releases/download/0.4.0/Sterling_Electric_0.4.0.zip",
+    "download_size": 35757149,
+    "download_hash": {
+        "sha1": "7840799A330E24B6D89E67B37FCEB197C2C778E1",
+        "sha256": "19D124A474B83B762807CC580D8FFC283D4040251BF320D05E3CD1218E8ACCE3"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 241997114,
+    "_$kref": "#/ckan/github/JadeOfMaar/SterlingSystems/asset_match/Sterling_Electric(.*).zip",
+    "x_generated_by": "netkan"
+}

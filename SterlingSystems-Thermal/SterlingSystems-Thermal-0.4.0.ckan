@@ -1,0 +1,65 @@
+{
+    "spec_version": "v1.27",
+    "identifier": "SterlingSystems-Thermal",
+    "name": "Stirling Systems - Thermal",
+    "abstract": "A very large KSP mod. Similar scope to Far Future Tech or KSP Interstellar \n",
+    "author": "JadeOfMaar",
+    "version": "0.4.0",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-SA",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/219609-1125-sterling-systems-v038-apr-20-2024/",
+        "repository": "https://github.com/JadeOfMaar/SterlingSystems/",
+        "x_remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/SterlingSystems/dev/GameData/SterlingSystems/Version/SterlingSystems.version"
+    },
+    "tags": [
+        "parts"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "SterlingSystems-Core"
+        }
+    ],
+    "supports": [
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "FarFutureTechnologies"
+        },
+        {
+            "name": "IndicatorLights"
+        },
+        {
+            "name": "Kerbalism"
+        },
+        {
+            "name": "SimpleRepaint"
+        },
+        {
+            "name": "SystemHeat"
+        },
+        {
+            "name": "Waterfall"
+        }
+    ],
+    "install": [
+        {
+            "find": "SterlingSystems",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://github.com/JadeOfMaar/SterlingSystems/releases/download/0.4.0/Sterling_Thermals_0.4.0.zip",
+    "download_size": 38094846,
+    "download_hash": {
+        "sha1": "4BD31AD199E62A83554E6C70DC473A5F5B3BBFE5",
+        "sha256": "C63381DE6295C9595621344797DC51FD7A3636A692102698A930142CB8CCD75C"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 271347306,
+    "_$kref": "#/ckan/github/JadeOfMaar/SterlingSystems/asset_match/Sterling_Thermals_(.*).zip",
+    "x_generated_by": "netkan"
+}
