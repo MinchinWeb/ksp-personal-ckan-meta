@@ -1,0 +1,79 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "Deferred",
+    "name": "Deferred",
+    "abstract": "Add deferred rendering to KSP",
+    "author": "LGhassen",
+    "version": "1.1.10.0",
+    "ksp_version_max": "1.12.99",
+    "license": "GPL-3.0",
+    "resources": {
+        "repository": "https://github.com/LGhassen/Deferred",
+        "bugtracker": "https://github.com/LGhassen/Deferred/issues"
+    },
+    "tags": [
+        "graphics"
+    ],
+    "depends": [
+        {
+            "name": "Harmony2"
+        },
+        {
+            "name": "Shabby"
+        }
+    ],
+    "supports": [
+        {
+            "name": "Parallax"
+        },
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        },
+        {
+            "name": "TUFX"
+        },
+        {
+            "name": "Waterfall"
+        },
+        {
+            "name": "FreeIva"
+        },
+        {
+            "name": "KerbalVR"
+        },
+        {
+            "name": "SimpleAdjustableFairings"
+        },
+        {
+            "name": "KerbalKonstructs"
+        },
+        {
+            "name": "RasterPropMonitor"
+        },
+        {
+            "name": "EngineLightRelit"
+        }
+    ],
+    "install": [
+        {
+            "find": "zzz_Deferred",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://github.com/LGhassen/Deferred/releases/download/1.1.10.0/Deferred_1.1.10.0.zip",
+    "download_size": 1737318,
+    "download_hash": {
+        "sha1": "D65E21AB53ADA4C29CCD6AF6E0C43DF775219E95",
+        "sha256": "57EC50C5872B240729E563B434AEFA62F280FCD65F5106D9B0D0E868CA3A93AA"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 1367503,
+    "release_date": "2024-06-28T18:34:05Z",
+    "_$vref": "#/ckan/ksp-avc",
+    "download_url": "https://github.com/LGhassen/Deferred/releases/download/1.1.10.0/Deferred_1.1.10.0.zip",
+    "x_via": "MinchinWeb's GitHub to NetKan",
+    "x_generated_by": "netkan"
+}
