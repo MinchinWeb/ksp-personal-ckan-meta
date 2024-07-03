@@ -1,0 +1,79 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "Deferred",
+    "name": "Deferred",
+    "abstract": "Add deferred rendering to KSP",
+    "author": "LGhassen",
+    "version": "1.1.12.0",
+    "ksp_version_max": "1.12.99",
+    "license": "GPL-3.0",
+    "resources": {
+        "repository": "https://github.com/LGhassen/Deferred",
+        "bugtracker": "https://github.com/LGhassen/Deferred/issues"
+    },
+    "tags": [
+        "graphics"
+    ],
+    "depends": [
+        {
+            "name": "Harmony2"
+        },
+        {
+            "name": "Shabby"
+        }
+    ],
+    "supports": [
+        {
+            "name": "Parallax"
+        },
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        },
+        {
+            "name": "TUFX"
+        },
+        {
+            "name": "Waterfall"
+        },
+        {
+            "name": "FreeIva"
+        },
+        {
+            "name": "KerbalVR"
+        },
+        {
+            "name": "SimpleAdjustableFairings"
+        },
+        {
+            "name": "KerbalKonstructs"
+        },
+        {
+            "name": "RasterPropMonitor"
+        },
+        {
+            "name": "EngineLightRelit"
+        }
+    ],
+    "install": [
+        {
+            "find": "zzz_Deferred",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://github.com/LGhassen/Deferred/releases/download/1.1.12.0/Deferred_1.1.12.0.zip",
+    "download_size": 1737110,
+    "download_hash": {
+        "sha1": "703518A9EC3AD47743122CE760BB57004D612997",
+        "sha256": "337F292605E4AED45F0D5BCD3BAF07127E09C0B2A22CD6EF20C20157814FC956"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 1366479,
+    "release_date": "2024-06-30T17:06:48Z",
+    "_$vref": "#/ckan/ksp-avc",
+    "download_url": "https://api.github.com/repos/LGhassen/Deferred/zipball/1.1.12.0",
+    "x_via": "MinchinWeb's GitHub to NetKan",
+    "x_generated_by": "netkan"
+}
